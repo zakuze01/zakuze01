@@ -1,0 +1,1708 @@
+2025-10-15 20:49:40,684 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-15 20:49:43,751 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-15 20:49:44,755 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-15 20:49:48,419 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-15 20:49:53,168 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-15 20:49:54,865 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-15 20:50:23,941 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-15 20:50:25,166 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-15 20:50:26,174 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-15 20:50:30,219 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-15 20:50:38,550 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-15 20:50:40,135 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-15 20:50:40,137 - INFO - 🚀 Starting real-time data streams...
+2025-10-15 20:50:40,146 - INFO - 🔌 Khởi động WebSocket cho 20 symbols trên multiple exchanges
+2025-10-15 20:50:40,146 - INFO - 🔌 Khởi động liquidation monitor
+2025-10-15 20:50:40,505 - INFO - ✅ Đã kết nối Binance WebSocket cho VIRTUAL
+2025-10-15 20:50:40,514 - INFO - ✅ Đã kết nối Binance WebSocket cho MNT
+2025-10-15 20:50:40,516 - INFO - ✅ Đã kết nối Binance WebSocket cho ATH
+2025-10-15 20:50:40,527 - INFO - ✅ Đã kết nối Binance WebSocket cho RAIL
+2025-10-15 20:50:40,528 - INFO - ✅ Đã kết nối Binance WebSocket cho LINK
+2025-10-15 20:50:40,529 - INFO - ✅ Đã kết nối Binance WebSocket cho AAVE
+2025-10-15 20:50:40,537 - INFO - ✅ Đã kết nối Binance WebSocket cho REI
+2025-10-15 20:50:40,538 - INFO - ✅ Đã kết nối Binance WebSocket cho OHM
+2025-10-15 20:50:40,538 - INFO - ✅ Đã kết nối Binance WebSocket cho FLUID
+2025-10-15 20:50:40,539 - INFO - ✅ Đã kết nối Binance WebSocket cho EVAA
+2025-10-15 20:50:40,554 - INFO - ✅ Đã kết nối Binance WebSocket cho EIGEN
+2025-10-15 20:50:40,555 - INFO - ✅ Đã kết nối Binance WebSocket cho KTA
+2025-10-15 20:50:40,556 - INFO - ✅ Đã kết nối Binance liquidation WebSocket
+2025-10-15 20:50:40,556 - INFO - ✅ Đã kết nối Binance WebSocket cho RSR
+2025-10-15 20:50:40,557 - INFO - ✅ Đã kết nối Binance WebSocket cho COAI
+2025-10-15 20:50:40,557 - INFO - ✅ Đã kết nối Binance WebSocket cho SNX
+2025-10-15 20:50:40,558 - INFO - ✅ Đã kết nối Binance WebSocket cho FORM
+2025-10-15 20:50:40,558 - INFO - ✅ Đã kết nối Binance WebSocket cho ASTER
+2025-10-15 20:50:40,558 - INFO - ✅ Đã kết nối Binance WebSocket cho NOICE
+2025-10-15 20:50:40,558 - INFO - ✅ Đã kết nối Binance WebSocket cho WLFI
+2025-10-15 20:50:40,561 - INFO - ✅ Đã kết nối Binance WebSocket cho MORPHO
+2025-10-15 20:50:42,427 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-15 20:50:42,467 - INFO - ✅ Đã kết nối Bybit WebSocket cho EVAA
+2025-10-15 20:50:42,468 - INFO - ✅ Đã kết nối Bybit WebSocket cho MORPHO
+2025-10-15 20:50:42,468 - INFO - ✅ Đã kết nối Bybit WebSocket cho MNT
+2025-10-15 20:50:42,469 - INFO - ✅ Đã kết nối Bybit WebSocket cho COAI
+2025-10-15 20:50:42,477 - INFO - ✅ Đã kết nối Bybit WebSocket cho RSR
+2025-10-15 20:50:42,478 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-15 20:50:42,493 - INFO - ✅ Đã kết nối Bybit WebSocket cho SNX
+2025-10-15 20:50:42,494 - INFO - ✅ Đã kết nối Bybit WebSocket cho VIRTUAL
+2025-10-15 20:50:42,509 - INFO - ✅ Đã kết nối Bybit WebSocket cho EIGEN
+2025-10-15 20:50:42,523 - INFO - ✅ Đã kết nối Bybit WebSocket cho LINK
+2025-10-15 20:50:42,689 - INFO - ✅ Đã kết nối Bybit WebSocket cho KTA
+2025-10-15 20:50:42,701 - INFO - ✅ Đã kết nối Bybit WebSocket cho WLFI
+2025-10-15 20:50:42,708 - INFO - ✅ Đã kết nối Bybit WebSocket cho ASTER
+2025-10-15 20:50:42,717 - INFO - ✅ Đã kết nối Bybit WebSocket cho FORM
+2025-10-15 20:50:42,720 - INFO - ✅ Đã kết nối Bybit WebSocket cho ATH
+2025-10-15 20:50:42,737 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-15 20:50:42,739 - INFO - ✅ Đã kết nối Bybit WebSocket cho REI
+2025-10-15 20:50:43,232 - INFO - ✅ Đã kết nối Bybit WebSocket cho FLUID
+2025-10-15 20:50:43,538 - INFO - ✅ Đã kết nối Bybit WebSocket cho AAVE
+2025-10-15 20:50:45,146 - INFO - ✅ WebSocket streams đã sẵn sàng
+2025-10-15 20:50:45,147 - INFO - ✅ Real-time data streams đã được khởi động
+2025-10-15 20:50:47,443 - INFO - ✅ Đã kết nối Bybit WebSocket cho NOICE
+2025-10-15 20:50:55,546 - INFO - ₿ BTC Dominance REAL-TIME: 56.96%
+2025-10-15 20:50:56,176 - INFO - 💵 DXY Index (YahooChart DX=F): 98.66500091552734
+2025-10-15 20:50:56,178 - INFO - ☁️ Market Regime REAL-TIME: NEUTRAL
+2025-10-15 20:50:57,490 - INFO -   🔍 Analyzing VIRTUAL with REAL-TIME data...
+2025-10-15 20:50:57,629 - INFO -   ✅ Lấy giá VIRTUAL từ binance: $0.787700
+2025-10-15 20:50:57,629 - INFO -   💰 Price: $0.787700 (Source: binance)
+2025-10-15 20:50:57,632 - INFO -   🔍 Analyzing MNT with REAL-TIME data...
+2025-10-15 20:51:08,604 - INFO -   ✅ Lấy giá MNT từ bybit: $1.901400
+2025-10-15 20:51:08,605 - INFO -   💰 Price: $1.901400 (Source: bybit)
+2025-10-15 20:51:08,609 - INFO -   🔍 Analyzing ATH with REAL-TIME data...
+2025-10-15 20:51:08,756 - INFO -   ✅ Lấy giá ATH từ binance: $0.038920
+2025-10-15 20:51:08,756 - INFO -   💰 Price: $0.038920 (Source: binance)
+2025-10-15 20:51:08,756 - INFO -   🔍 Analyzing ASTER with REAL-TIME data...
+2025-10-15 20:51:08,890 - INFO -   ✅ Lấy giá ASTER từ binance: $1.424500
+2025-10-15 20:51:08,890 - INFO -   💰 Price: $1.424500 (Source: binance)
+2025-10-15 20:51:08,891 - INFO -   🔍 Analyzing COAI with REAL-TIME data...
+2025-10-15 20:51:09,031 - INFO -   ✅ Lấy giá COAI từ binance: $18.711000
+2025-10-15 20:51:09,032 - INFO -   💰 Price: $18.711000 (Source: binance)
+2025-10-15 20:51:09,032 - INFO -   🔍 Analyzing LINK with REAL-TIME data...
+2025-10-15 20:51:09,169 - INFO -   ✅ Lấy giá LINK từ binance: $18.357000
+2025-10-15 20:51:09,169 - INFO -   💰 Price: $18.357000 (Source: binance)
+2025-10-15 20:51:09,169 - INFO -   🔍 Analyzing AAVE with REAL-TIME data...
+2025-10-15 20:51:09,312 - INFO -   ✅ Lấy giá AAVE từ binance: $246.810000
+2025-10-15 20:51:09,312 - INFO -   💰 Price: $246.810000 (Source: binance)
+2025-10-15 20:51:09,313 - INFO -   🔍 Analyzing EIGEN with REAL-TIME data...
+2025-10-15 20:51:09,464 - INFO -   ✅ Lấy giá EIGEN từ binance: $1.288500
+2025-10-15 20:51:09,464 - INFO -   💰 Price: $1.288500 (Source: binance)
+2025-10-15 20:51:09,465 - INFO -   🔍 Analyzing RAIL with REAL-TIME data...
+2025-10-15 20:51:11,172 - INFO -   ✅ Lấy giá RAIL từ mexc: $3.531000
+2025-10-15 20:51:11,173 - INFO -   💰 Price: $3.531000 (Source: mexc)
+2025-10-15 20:51:11,182 - INFO -   🔍 Analyzing SNX with REAL-TIME data...
+2025-10-15 20:51:11,358 - INFO -   ✅ Lấy giá SNX từ binance: $1.891000
+2025-10-15 20:51:11,358 - INFO -   💰 Price: $1.891000 (Source: binance)
+2025-10-15 20:51:11,359 - INFO -   🔍 Analyzing REI with REAL-TIME data...
+2025-10-15 20:51:11,502 - INFO -   ✅ Lấy giá REI từ binance: $0.012220
+2025-10-15 20:51:11,502 - INFO -   💰 Price: $0.012220 (Source: binance)
+2025-10-15 20:51:11,503 - INFO -   🔍 Analyzing WLFI with REAL-TIME data...
+2025-10-15 20:51:11,667 - INFO -   ✅ Lấy giá WLFI từ binance: $0.139700
+2025-10-15 20:51:11,667 - INFO -   💰 Price: $0.139700 (Source: binance)
+2025-10-15 20:51:11,668 - INFO -   🔍 Analyzing OHM with REAL-TIME data...
+2025-10-15 20:51:18,736 - WARNING -   ⚠️ Sử dụng giá ước tính cho OHM: $5.000000
+2025-10-15 20:51:18,736 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 20:51:18,745 - INFO -   🔍 Analyzing FLUID with REAL-TIME data...
+2025-10-15 20:51:18,879 - INFO -   ✅ Lấy giá FLUID từ binance: $5.168000
+2025-10-15 20:51:18,879 - INFO -   💰 Price: $5.168000 (Source: binance)
+2025-10-15 20:51:18,880 - INFO -   🔍 Analyzing FORM with REAL-TIME data...
+2025-10-15 20:51:19,028 - INFO -   ✅ Lấy giá FORM từ binance: $0.993200
+2025-10-15 20:51:19,029 - INFO -   💰 Price: $0.993200 (Source: binance)
+2025-10-15 20:51:19,029 - INFO -   🔍 Analyzing MORPHO with REAL-TIME data...
+2025-10-15 20:51:19,183 - INFO -   ✅ Lấy giá MORPHO từ binance: $1.958200
+2025-10-15 20:51:19,184 - INFO -   💰 Price: $1.958200 (Source: binance)
+2025-10-15 20:51:19,184 - INFO -   🔍 Analyzing RSR with REAL-TIME data...
+2025-10-15 20:51:19,329 - INFO -   ✅ Lấy giá RSR từ binance: $0.006363
+2025-10-15 20:51:19,329 - INFO -   💰 Price: $0.006363 (Source: binance)
+2025-10-15 20:51:19,330 - INFO -   🔍 Analyzing EVAA with REAL-TIME data...
+2025-10-15 20:51:19,482 - INFO -   ✅ Lấy giá EVAA từ binance: $2.487500
+2025-10-15 20:51:19,483 - INFO -   💰 Price: $2.487500 (Source: binance)
+2025-10-15 20:51:19,483 - INFO -   🔍 Analyzing NOICE with REAL-TIME data...
+2025-10-15 20:51:23,563 - INFO -   ✅ Lấy giá NOICE từ CoinGecko: $0.000409
+2025-10-15 20:51:23,564 - INFO -   💰 Price: $0.000409 (Source: coingecko)
+2025-10-15 20:51:23,578 - INFO -   🔍 Analyzing KTA with REAL-TIME data...
+2025-10-15 20:51:27,634 - WARNING -   ⚠️ Sử dụng giá ước tính cho KTA: $5.000000
+2025-10-15 20:51:27,635 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 20:51:28,875 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho KTA
+2025-10-15 20:51:28,925 - INFO -   ✅ Direction: SHORT | Score: +5.65 (L:+2.2/S:+5.7)
+2025-10-15 20:51:28,925 - INFO -   📊 Decision: SELL | Confidence: 78.2% | R:R 0.03
+2025-10-15 20:51:28,925 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm SHORT cao (5.7) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 20:51:29,163 - INFO -   ✅ Lấy dữ liệu nến MORPHO từ _get_binance_klines: 200 nến
+2025-10-15 20:51:29,201 - INFO -   ✅ Direction: SHORT | Score: +1.65 (L:+1.1/S:+1.6)
+2025-10-15 20:51:29,202 - INFO -   📊 Decision: NEUTRAL | Confidence: 17.2% | R:R 2.04
+2025-10-15 20:51:29,202 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm SHORT (1.6) chưa đủ mạnh
+2025-10-15 20:51:30,174 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho RAIL
+2025-10-15 20:51:30,195 - INFO -   ✅ Direction: LONG | Score: +3.85 (L:+3.9/S:+1.4)
+2025-10-15 20:51:30,196 - INFO -   📊 Decision: NEUTRAL | Confidence: 55.6% | R:R 2.01
+2025-10-15 20:51:30,196 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.9) chưa đủ mạnh
+2025-10-15 20:51:30,366 - INFO -   ✅ Lấy dữ liệu nến FLUID từ _get_binance_klines: 200 nến
+2025-10-15 20:51:30,399 - INFO -   ✅ Direction: SHORT | Score: +2.40 (L:+2.2/S:+2.4)
+2025-10-15 20:51:30,399 - INFO -   📊 Decision: NEUTRAL | Confidence: 42.0% | R:R 1.34
+2025-10-15 20:51:30,399 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm SHORT (2.4) chưa đủ mạnh
+2025-10-15 20:51:30,551 - INFO -   ✅ Lấy dữ liệu nến LINK từ _get_binance_klines: 200 nến
+2025-10-15 20:51:30,577 - INFO -   ✅ Direction: LONG | Score: +3.15 (L:+3.1/S:+3.1)
+2025-10-15 20:51:30,577 - INFO -   📊 Decision: NEUTRAL | Confidence: 45.8% | R:R 1.44
+2025-10-15 20:51:30,578 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.1) chưa đủ mạnh
+2025-10-15 20:51:30,738 - INFO -   ✅ Lấy dữ liệu nến RSR từ _get_binance_klines: 200 nến
+2025-10-15 20:51:30,766 - INFO -   ✅ Direction: SHORT | Score: +5.80 (L:+2.4/S:+5.8)
+2025-10-15 20:51:30,766 - INFO -   📊 Decision: SELL | Confidence: 79.0% | R:R 2.10
+2025-10-15 20:51:30,766 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (5.8 >= 5.5) và risk chấp nhận được (LOW)
+2025-10-15 20:51:30,935 - INFO -   ✅ Lấy dữ liệu nến SNX từ _get_binance_klines: 200 nến
+2025-10-15 20:51:30,969 - INFO -   ✅ Direction: LONG | Score: +3.75 (L:+3.8/S:+1.9)
+2025-10-15 20:51:30,969 - INFO -   📊 Decision: NEUTRAL | Confidence: 49.4% | R:R 2.06
+2025-10-15 20:51:30,970 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.8) chưa đủ mạnh
+2025-10-15 20:51:31,128 - INFO -   ✅ Lấy dữ liệu nến AAVE từ _get_binance_klines: 200 nến
+2025-10-15 20:51:31,155 - INFO -   ✅ Direction: LONG | Score: +4.50 (L:+4.5/S:+1.5)
+2025-10-15 20:51:31,155 - INFO -   📊 Decision: BUY | Confidence: 54.7% | R:R 1.49
+2025-10-15 20:51:31,155 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.5) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 20:51:31,314 - INFO -   ✅ Lấy dữ liệu nến ASTER từ _get_binance_klines: 200 nến
+2025-10-15 20:51:31,341 - INFO -   ✅ Direction: SHORT | Score: +5.80 (L:+1.8/S:+5.8)
+2025-10-15 20:51:31,341 - INFO -   📊 Decision: SELL | Confidence: 79.0% | R:R 1.81
+2025-10-15 20:51:31,342 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (5.8 >= 5.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 20:51:31,496 - INFO -   ✅ Lấy dữ liệu nến COAI từ _get_binance_klines: 200 nến
+2025-10-15 20:51:31,521 - INFO -   ✅ Direction: SHORT | Score: +6.10 (L:+3.9/S:+6.1)
+2025-10-15 20:51:31,522 - INFO -   📊 Decision: SELL | Confidence: 80.5% | R:R 2.05
+2025-10-15 20:51:31,522 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm SHORT cao (6.1) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 20:51:32,191 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho NOICE
+2025-10-15 20:51:32,212 - INFO -   ✅ Direction: SHORT | Score: +5.65 (L:+2.2/S:+5.7)
+2025-10-15 20:51:32,213 - INFO -   📊 Decision: SELL | Confidence: 78.2% | R:R 0.03
+2025-10-15 20:51:32,213 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (5.7 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 20:51:33,609 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho OHM
+2025-10-15 20:51:33,649 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+1.8)
+2025-10-15 20:51:33,650 - INFO -   📊 Decision: BUY | Confidence: 65.1% | R:R 2.02
+2025-10-15 20:51:33,650 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 20:51:35,001 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho MNT
+2025-10-15 20:51:35,033 - INFO -   ✅ Direction: SHORT | Score: +6.80 (L:+2.6/S:+6.8)
+2025-10-15 20:51:35,034 - INFO -   📊 Decision: SELL | Confidence: 84.0% | R:R 0.04
+2025-10-15 20:51:35,034 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (6.8 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 20:51:35,186 - INFO -   ✅ Lấy dữ liệu nến ATH từ _get_binance_klines: 200 nến
+2025-10-15 20:51:35,211 - INFO -   ✅ Direction: SHORT | Score: +7.40 (L:+3.2/S:+7.4)
+2025-10-15 20:51:35,212 - INFO -   📊 Decision: SELL | Confidence: 87.0% | R:R 0.84
+2025-10-15 20:51:35,212 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (7.4 >= 5.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 20:51:35,379 - INFO -   ✅ Lấy dữ liệu nến EVAA từ _get_binance_klines: 200 nến
+2025-10-15 20:51:35,405 - INFO -   ✅ Direction: LONG | Score: +3.55 (L:+3.5/S:+3.4)
+2025-10-15 20:51:35,405 - INFO -   📊 Decision: NEUTRAL | Confidence: 67.8% | R:R 1.33
+2025-10-15 20:51:35,405 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.5) chưa đủ mạnh
+2025-10-15 20:51:35,561 - INFO -   ✅ Lấy dữ liệu nến FORM từ _get_binance_klines: 200 nến
+2025-10-15 20:51:35,587 - INFO -   ✅ Direction: LONG | Score: +4.05 (L:+4.0/S:+2.2)
+2025-10-15 20:51:35,588 - INFO -   📊 Decision: BUY | Confidence: 50.2% | R:R 2.08
+2025-10-15 20:51:35,588 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.0) chưa đủ mạnh
+2025-10-15 20:51:35,734 - INFO -   ✅ Lấy dữ liệu nến VIRTUAL từ _get_binance_klines: 200 nến
+2025-10-15 20:51:35,768 - INFO -   ✅ Direction: SHORT | Score: +7.70 (L:+2.4/S:+7.7)
+2025-10-15 20:51:35,768 - INFO -   📊 Decision: SELL | Confidence: 88.5% | R:R 2.11
+2025-10-15 20:51:35,769 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (7.7 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 20:51:35,926 - INFO -   ✅ Lấy dữ liệu nến REI từ _get_binance_klines: 200 nến
+2025-10-15 20:51:35,960 - INFO -   ✅ Direction: LONG | Score: +3.45 (L:+3.5/S:+3.5)
+2025-10-15 20:51:35,960 - INFO -   📊 Decision: NEUTRAL | Confidence: 47.5% | R:R 1.41
+2025-10-15 20:51:35,960 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.5) chưa đủ mạnh
+2025-10-15 20:51:36,114 - INFO -   ✅ Lấy dữ liệu nến EIGEN từ _get_binance_klines: 200 nến
+2025-10-15 20:51:36,146 - INFO -   ✅ Direction: LONG | Score: +4.35 (L:+4.3/S:+2.2)
+2025-10-15 20:51:36,146 - INFO -   📊 Decision: BUY | Confidence: 57.1% | R:R 2.12
+2025-10-15 20:51:36,147 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 20:51:36,309 - INFO -   ✅ Lấy dữ liệu nến WLFI từ _get_binance_klines: 200 nến
+2025-10-15 20:51:36,340 - INFO -   ✅ Direction: SHORT | Score: +3.65 (L:+2.6/S:+3.6)
+2025-10-15 20:51:36,341 - INFO -   📊 Decision: NEUTRAL | Confidence: 48.2% | R:R 1.72
+2025-10-15 20:51:36,341 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm SHORT (3.6) chưa đủ mạnh
+2025-10-15 20:51:36,448 - WARNING - ⚠️ Mất kết nối Binance WebSocket REI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,448 - WARNING - ⚠️ Mất kết nối Bybit WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,449 - WARNING - ⚠️ Mất kết nối Bybit WebSocket COAI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,449 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EVAA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,449 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,450 - WARNING - ⚠️ Mất kết nối Binance WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,450 - WARNING - ⚠️ Mất kết nối Binance WebSocket ASTER: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,450 - WARNING - ⚠️ Mất kết nối Binance WebSocket WLFI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,451 - WARNING - ⚠️ Mất kết nối Bybit WebSocket KTA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,451 - WARNING - ⚠️ Mất kết nối Binance WebSocket EVAA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,451 - WARNING - ⚠️ Mất kết nối Binance WebSocket MORPHO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,451 - WARNING - ⚠️ Mất kết nối Binance WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,452 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ATH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,452 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,452 - WARNING - ⚠️ Mất kết nối Binance WebSocket SNX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,452 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RSR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,453 - WARNING - ⚠️ Mất kết nối Binance WebSocket COAI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,453 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MORPHO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,453 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MNT: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,453 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,454 - WARNING - ⚠️ Mất kết nối Binance WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,454 - WARNING - ⚠️ Mất kết nối Binance WebSocket VIRTUAL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,454 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ASTER: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,454 - WARNING - ⚠️ Mất kết nối Bybit WebSocket FLUID: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,455 - WARNING - ⚠️ Mất kết nối Binance WebSocket NOICE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,455 - WARNING - ⚠️ Mất kết nối Binance WebSocket RSR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,455 - WARNING - ⚠️ Mất kết nối Bybit WebSocket NOICE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,455 - WARNING - ⚠️ Mất kết nối Binance WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,455 - WARNING - ⚠️ Mất kết nối Bybit WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,456 - WARNING - ⚠️ Mất kết nối Bybit WebSocket VIRTUAL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,456 - WARNING - ⚠️ Mất kết nối Bybit WebSocket REI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,456 - WARNING - ⚠️ Mất kết nối Binance WebSocket MNT: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,457 - WARNING - ⚠️ Mất kết nối Binance WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,457 - WARNING - ⚠️ Mất kết nối Binance WebSocket FLUID: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,457 - WARNING - ⚠️ Mất kết nối Bybit WebSocket SNX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,457 - WARNING - ⚠️ Mất kết nối Binance WebSocket ATH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,457 - WARNING - ⚠️ Mất kết nối Bybit WebSocket FORM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,458 - WARNING - ⚠️ Mất kết nối Binance WebSocket KTA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,458 - WARNING - ⚠️ Mất kết nối Bybit WebSocket WLFI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,458 - WARNING - ⚠️ Mất kết nối Binance WebSocket FORM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,459 - WARNING - ⚠️ Mất kết nối Binance Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 20:51:36,459 - WARNING - ⚠️ Mất kết nối Bybit Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:29:48,981 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-15 22:29:50,539 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-15 22:29:51,513 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-15 22:29:55,546 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-15 22:29:59,965 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-15 22:30:01,555 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-15 22:30:01,556 - INFO - 🚀 Starting real-time data streams...
+2025-10-15 22:30:01,564 - INFO - 🔌 Khởi động WebSocket cho 20 symbols trên multiple exchanges
+2025-10-15 22:30:01,565 - INFO - 🔌 Khởi động liquidation monitor
+2025-10-15 22:30:01,910 - INFO - ✅ Đã kết nối Binance WebSocket cho MNT
+2025-10-15 22:30:01,913 - INFO - ✅ Đã kết nối Binance WebSocket cho MORPHO
+2025-10-15 22:30:01,919 - INFO - ✅ Đã kết nối Binance WebSocket cho KTA
+2025-10-15 22:30:01,920 - INFO - ✅ Đã kết nối Binance WebSocket cho REI
+2025-10-15 22:30:01,923 - INFO - ✅ Đã kết nối Binance WebSocket cho WLFI
+2025-10-15 22:30:01,927 - INFO - ✅ Đã kết nối Binance WebSocket cho LINK
+2025-10-15 22:30:01,928 - INFO - ✅ Đã kết nối Binance WebSocket cho COAI
+2025-10-15 22:30:01,929 - INFO - ✅ Đã kết nối Binance WebSocket cho OHM
+2025-10-15 22:30:01,933 - INFO - ✅ Đã kết nối Binance WebSocket cho SNX
+2025-10-15 22:30:01,939 - INFO - ✅ Đã kết nối Binance WebSocket cho FLUID
+2025-10-15 22:30:01,939 - INFO - ✅ Đã kết nối Binance WebSocket cho FORM
+2025-10-15 22:30:01,939 - INFO - ✅ Đã kết nối Binance WebSocket cho NOICE
+2025-10-15 22:30:01,940 - INFO - ✅ Đã kết nối Binance WebSocket cho EVAA
+2025-10-15 22:30:01,950 - INFO - ✅ Đã kết nối Binance WebSocket cho VIRTUAL
+2025-10-15 22:30:01,953 - INFO - ✅ Đã kết nối Binance WebSocket cho EIGEN
+2025-10-15 22:30:01,954 - INFO - ✅ Đã kết nối Binance WebSocket cho AAVE
+2025-10-15 22:30:01,954 - INFO - ✅ Đã kết nối Binance WebSocket cho ATH
+2025-10-15 22:30:01,955 - INFO - ✅ Đã kết nối Binance WebSocket cho RAIL
+2025-10-15 22:30:01,955 - INFO - ✅ Đã kết nối Binance WebSocket cho ASTER
+2025-10-15 22:30:01,957 - INFO - ✅ Đã kết nối Binance WebSocket cho RSR
+2025-10-15 22:30:03,786 - INFO - ✅ Đã kết nối Bybit WebSocket cho ATH
+2025-10-15 22:30:03,791 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-15 22:30:03,811 - INFO - ✅ Đã kết nối Bybit WebSocket cho EVAA
+2025-10-15 22:30:03,813 - INFO - ✅ Đã kết nối Bybit WebSocket cho KTA
+2025-10-15 22:30:03,821 - INFO - ✅ Đã kết nối Bybit WebSocket cho LINK
+2025-10-15 22:30:03,827 - INFO - ✅ Đã kết nối Bybit WebSocket cho REI
+2025-10-15 22:30:03,828 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-15 22:30:03,838 - INFO - ✅ Đã kết nối Bybit WebSocket cho VIRTUAL
+2025-10-15 22:30:03,839 - INFO - ✅ Đã kết nối Bybit WebSocket cho SNX
+2025-10-15 22:30:03,847 - INFO - ✅ Đã kết nối Bybit WebSocket cho FLUID
+2025-10-15 22:30:03,851 - INFO - ✅ Đã kết nối Bybit WebSocket cho FORM
+2025-10-15 22:30:03,862 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-15 22:30:03,871 - INFO - ✅ Đã kết nối Bybit WebSocket cho NOICE
+2025-10-15 22:30:03,872 - INFO - ✅ Đã kết nối Bybit WebSocket cho COAI
+2025-10-15 22:30:03,874 - INFO - ✅ Đã kết nối Bybit WebSocket cho ASTER
+2025-10-15 22:30:03,877 - INFO - ✅ Đã kết nối Bybit WebSocket cho MNT
+2025-10-15 22:30:03,885 - INFO - ✅ Đã kết nối Bybit WebSocket cho EIGEN
+2025-10-15 22:30:03,896 - INFO - ✅ Đã kết nối Bybit WebSocket cho AAVE
+2025-10-15 22:30:03,931 - INFO - ✅ Đã kết nối Bybit WebSocket cho WLFI
+2025-10-15 22:30:03,935 - INFO - ✅ Đã kết nối Binance liquidation WebSocket
+2025-10-15 22:30:04,277 - INFO - ✅ Đã kết nối Bybit WebSocket cho MORPHO
+2025-10-15 22:30:04,305 - INFO - ✅ Đã kết nối Bybit WebSocket cho RSR
+2025-10-15 22:30:06,565 - INFO - ✅ WebSocket streams đã sẵn sàng
+2025-10-15 22:30:06,565 - INFO - ✅ Real-time data streams đã được khởi động
+2025-10-15 22:30:17,092 - INFO - ₿ BTC Dominance REAL-TIME: 57.11%
+2025-10-15 22:30:17,839 - INFO - 💵 DXY Index (YahooChart DX=F): 98.59500122070312
+2025-10-15 22:30:17,840 - INFO - ☁️ Market Regime REAL-TIME: NEUTRAL
+2025-10-15 22:30:19,266 - INFO -   🔍 Analyzing VIRTUAL with REAL-TIME data...
+2025-10-15 22:30:19,417 - INFO -   ✅ Lấy giá VIRTUAL từ binance: $0.783200
+2025-10-15 22:30:19,417 - INFO -   💰 Price: $0.783200 (Source: binance)
+2025-10-15 22:30:19,420 - INFO -   🔍 Analyzing MNT with REAL-TIME data...
+2025-10-15 22:30:20,078 - INFO -   ✅ Lấy giá MNT từ bybit: $1.874400
+2025-10-15 22:30:20,078 - INFO -   💰 Price: $1.874400 (Source: bybit)
+2025-10-15 22:30:20,080 - INFO -   🔍 Analyzing ATH with REAL-TIME data...
+2025-10-15 22:30:20,225 - INFO -   ✅ Lấy giá ATH từ binance: $0.038270
+2025-10-15 22:30:20,225 - INFO -   💰 Price: $0.038270 (Source: binance)
+2025-10-15 22:30:20,226 - INFO -   🔍 Analyzing ASTER with REAL-TIME data...
+2025-10-15 22:30:20,374 - INFO -   ✅ Lấy giá ASTER từ binance: $1.418000
+2025-10-15 22:30:20,375 - INFO -   💰 Price: $1.418000 (Source: binance)
+2025-10-15 22:30:20,376 - INFO -   🔍 Analyzing COAI with REAL-TIME data...
+2025-10-15 22:30:20,536 - INFO -   ✅ Lấy giá COAI từ binance: $18.880000
+2025-10-15 22:30:20,537 - INFO -   💰 Price: $18.880000 (Source: binance)
+2025-10-15 22:30:20,537 - INFO -   🔍 Analyzing LINK with REAL-TIME data...
+2025-10-15 22:30:20,691 - INFO -   ✅ Lấy giá LINK từ binance: $18.268000
+2025-10-15 22:30:20,691 - INFO -   💰 Price: $18.268000 (Source: binance)
+2025-10-15 22:30:20,692 - INFO -   🔍 Analyzing AAVE with REAL-TIME data...
+2025-10-15 22:30:20,844 - INFO -   ✅ Lấy giá AAVE từ binance: $245.370000
+2025-10-15 22:30:20,845 - INFO -   💰 Price: $245.370000 (Source: binance)
+2025-10-15 22:30:20,845 - INFO -   🔍 Analyzing EIGEN with REAL-TIME data...
+2025-10-15 22:30:20,992 - INFO -   ✅ Lấy giá EIGEN từ binance: $1.292100
+2025-10-15 22:30:20,993 - INFO -   💰 Price: $1.292100 (Source: binance)
+2025-10-15 22:30:20,994 - INFO -   🔍 Analyzing RAIL with REAL-TIME data...
+2025-10-15 22:30:22,284 - INFO -   ✅ Lấy giá RAIL từ mexc: $3.692000
+2025-10-15 22:30:22,284 - INFO -   💰 Price: $3.692000 (Source: mexc)
+2025-10-15 22:30:22,291 - INFO -   🔍 Analyzing SNX with REAL-TIME data...
+2025-10-15 22:30:22,424 - INFO -   ✅ Lấy giá SNX từ binance: $1.815000
+2025-10-15 22:30:22,424 - INFO -   💰 Price: $1.815000 (Source: binance)
+2025-10-15 22:30:22,426 - INFO -   🔍 Analyzing REI with REAL-TIME data...
+2025-10-15 22:30:22,575 - INFO -   ✅ Lấy giá REI từ binance: $0.012220
+2025-10-15 22:30:22,576 - INFO -   💰 Price: $0.012220 (Source: binance)
+2025-10-15 22:30:22,576 - INFO -   🔍 Analyzing WLFI with REAL-TIME data...
+2025-10-15 22:30:22,727 - INFO -   ✅ Lấy giá WLFI từ binance: $0.138800
+2025-10-15 22:30:22,728 - INFO -   💰 Price: $0.138800 (Source: binance)
+2025-10-15 22:30:22,728 - INFO -   🔍 Analyzing OHM with REAL-TIME data...
+2025-10-15 22:30:25,398 - WARNING -   ⚠️ Sử dụng giá ước tính cho OHM: $5.000000
+2025-10-15 22:30:25,398 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 22:30:25,408 - INFO -   🔍 Analyzing FLUID with REAL-TIME data...
+2025-10-15 22:30:25,557 - INFO -   ✅ Lấy giá FLUID từ binance: $5.153000
+2025-10-15 22:30:25,557 - INFO -   💰 Price: $5.153000 (Source: binance)
+2025-10-15 22:30:25,557 - INFO -   🔍 Analyzing FORM with REAL-TIME data...
+2025-10-15 22:30:25,703 - INFO -   ✅ Lấy giá FORM từ binance: $0.993200
+2025-10-15 22:30:25,704 - INFO -   💰 Price: $0.993200 (Source: binance)
+2025-10-15 22:30:25,704 - INFO -   🔍 Analyzing MORPHO with REAL-TIME data...
+2025-10-15 22:30:25,855 - INFO -   ✅ Lấy giá MORPHO từ binance: $1.955900
+2025-10-15 22:30:25,856 - INFO -   💰 Price: $1.955900 (Source: binance)
+2025-10-15 22:30:25,856 - INFO -   🔍 Analyzing RSR with REAL-TIME data...
+2025-10-15 22:30:25,987 - INFO -   ✅ Lấy giá RSR từ binance: $0.006372
+2025-10-15 22:30:25,987 - INFO -   💰 Price: $0.006372 (Source: binance)
+2025-10-15 22:30:25,987 - INFO -   🔍 Analyzing EVAA with REAL-TIME data...
+2025-10-15 22:30:26,113 - INFO -   ✅ Lấy giá EVAA từ binance: $2.783400
+2025-10-15 22:30:26,113 - INFO -   💰 Price: $2.783400 (Source: binance)
+2025-10-15 22:30:26,114 - INFO -   🔍 Analyzing NOICE with REAL-TIME data...
+2025-10-15 22:30:29,097 - INFO -   ✅ Lấy giá NOICE từ CoinGecko: $0.000394
+2025-10-15 22:30:29,097 - INFO -   💰 Price: $0.000394 (Source: coingecko)
+2025-10-15 22:30:29,105 - INFO -   🔍 Analyzing KTA with REAL-TIME data...
+2025-10-15 22:30:31,441 - WARNING -   ⚠️ Sử dụng giá ước tính cho KTA: $5.000000
+2025-10-15 22:30:31,441 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 22:30:32,991 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho OHM
+2025-10-15 22:30:33,019 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-15 22:30:33,019 - INFO -   📊 Decision: BUY | Confidence: 65.1% | R:R 2.02
+2025-10-15 22:30:33,019 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 22:30:33,947 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho KTA
+2025-10-15 22:30:33,971 - INFO -   ✅ Direction: SHORT | Score: +6.05 (L:+2.2/S:+6.0)
+2025-10-15 22:30:33,971 - INFO -   📊 Decision: SELL | Confidence: 80.2% | R:R 0.03
+2025-10-15 22:30:33,971 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm SHORT cao (6.0) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 22:30:34,158 - INFO -   ✅ Lấy dữ liệu nến FLUID từ _get_binance_klines: 200 nến
+2025-10-15 22:30:34,194 - INFO -   ✅ Direction: SHORT | Score: +3.10 (L:+2.5/S:+3.1)
+2025-10-15 22:30:34,195 - INFO -   📊 Decision: NEUTRAL | Confidence: 45.5% | R:R 1.44
+2025-10-15 22:30:34,195 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm SHORT (3.1) chưa đủ mạnh
+2025-10-15 22:30:34,354 - INFO -   ✅ Lấy dữ liệu nến COAI từ _get_binance_klines: 200 nến
+2025-10-15 22:30:34,392 - INFO -   ✅ Direction: SHORT | Score: +6.50 (L:+2.9/S:+6.5)
+2025-10-15 22:30:34,392 - INFO -   📊 Decision: SELL | Confidence: 70.1% | R:R 2.05
+2025-10-15 22:30:34,393 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm SHORT cao (6.5) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 22:30:34,551 - INFO -   ✅ Lấy dữ liệu nến FORM từ _get_binance_klines: 200 nến
+2025-10-15 22:30:34,580 - INFO -   ✅ Direction: LONG | Score: +3.45 (L:+3.5/S:+2.6)
+2025-10-15 22:30:34,580 - INFO -   📊 Decision: NEUTRAL | Confidence: 40.2% | R:R 2.09
+2025-10-15 22:30:34,580 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.5) chưa đủ mạnh
+2025-10-15 22:30:34,717 - INFO -   ✅ Lấy dữ liệu nến ASTER từ _get_binance_klines: 200 nến
+2025-10-15 22:30:34,748 - INFO -   ✅ Direction: SHORT | Score: +6.20 (L:+1.8/S:+6.2)
+2025-10-15 22:30:34,749 - INFO -   📊 Decision: SELL | Confidence: 81.0% | R:R 1.58
+2025-10-15 22:30:34,749 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (6.2 >= 5.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 22:30:34,885 - INFO -   ✅ Lấy dữ liệu nến EVAA từ _get_binance_klines: 200 nến
+2025-10-15 22:30:34,913 - INFO -   ✅ Direction: SHORT | Score: +6.20 (L:+3.5/S:+6.2)
+2025-10-15 22:30:34,913 - INFO -   📊 Decision: SELL | Confidence: 81.0% | R:R 2.06
+2025-10-15 22:30:34,913 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm SHORT cao (6.2) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 22:30:35,065 - INFO -   ✅ Lấy dữ liệu nến WLFI từ _get_binance_klines: 200 nến
+2025-10-15 22:30:35,093 - INFO -   ✅ Direction: SHORT | Score: +4.65 (L:+3.2/S:+4.7)
+2025-10-15 22:30:35,093 - INFO -   📊 Decision: SELL | Confidence: 53.2% | R:R 1.45
+2025-10-15 22:30:35,093 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (4.7 >= 4.5) và risk chấp nhận được (LOW)
+2025-10-15 22:30:35,657 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho NOICE
+2025-10-15 22:30:35,681 - INFO -   ✅ Direction: SHORT | Score: +6.05 (L:+2.2/S:+6.0)
+2025-10-15 22:30:35,681 - INFO -   📊 Decision: SELL | Confidence: 80.2% | R:R 0.03
+2025-10-15 22:30:35,681 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (6.0 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 22:30:36,719 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho MNT
+2025-10-15 22:30:36,745 - INFO -   ✅ Direction: SHORT | Score: +7.20 (L:+2.6/S:+7.2)
+2025-10-15 22:30:36,745 - INFO -   📊 Decision: SELL | Confidence: 86.0% | R:R 0.04
+2025-10-15 22:30:36,746 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (7.2 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 22:30:36,884 - INFO -   ✅ Lấy dữ liệu nến AAVE từ _get_binance_klines: 200 nến
+2025-10-15 22:30:36,914 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.5)
+2025-10-15 22:30:36,915 - INFO -   📊 Decision: NEUTRAL | Confidence: 48.7% | R:R 1.53
+2025-10-15 22:30:36,915 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-15 22:30:37,063 - INFO -   ✅ Lấy dữ liệu nến REI từ _get_binance_klines: 200 nến
+2025-10-15 22:30:37,090 - INFO -   ✅ Direction: SHORT | Score: +3.85 (L:+3.5/S:+3.9)
+2025-10-15 22:30:37,090 - INFO -   📊 Decision: NEUTRAL | Confidence: 49.5% | R:R 1.41
+2025-10-15 22:30:37,091 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm SHORT (3.9) chưa đủ mạnh
+2025-10-15 22:30:37,242 - INFO -   ✅ Lấy dữ liệu nến VIRTUAL từ _get_binance_klines: 200 nến
+2025-10-15 22:30:37,271 - INFO -   ✅ Direction: SHORT | Score: +8.10 (L:+3.0/S:+8.1)
+2025-10-15 22:30:37,271 - INFO -   📊 Decision: STRONG_SELL | Confidence: 90.5% | R:R 1.91
+2025-10-15 22:30:37,271 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (8.1 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 22:30:38,176 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho RAIL
+2025-10-15 22:30:38,199 - INFO -   ✅ Direction: LONG | Score: +3.85 (L:+3.9/S:+1.8)
+2025-10-15 22:30:38,200 - INFO -   📊 Decision: NEUTRAL | Confidence: 55.6% | R:R 2.01
+2025-10-15 22:30:38,200 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.9) chưa đủ mạnh
+2025-10-15 22:30:38,404 - INFO -   ✅ Lấy dữ liệu nến SNX từ _get_binance_klines: 200 nến
+2025-10-15 22:30:38,434 - INFO -   ✅ Direction: LONG | Score: +3.75 (L:+3.8/S:+3.0)
+2025-10-15 22:30:38,435 - INFO -   📊 Decision: NEUTRAL | Confidence: 49.4% | R:R 2.06
+2025-10-15 22:30:38,435 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.8) chưa đủ mạnh
+2025-10-15 22:30:38,574 - INFO -   ✅ Lấy dữ liệu nến ATH từ _get_binance_klines: 200 nến
+2025-10-15 22:30:38,602 - INFO -   ✅ Direction: SHORT | Score: +7.80 (L:+3.2/S:+7.8)
+2025-10-15 22:30:38,602 - INFO -   📊 Decision: SELL | Confidence: 89.0% | R:R 0.86
+2025-10-15 22:30:38,603 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (7.8 >= 5.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 22:30:38,758 - INFO -   ✅ Lấy dữ liệu nến LINK từ _get_binance_klines: 200 nến
+2025-10-15 22:30:38,786 - INFO -   ✅ Direction: LONG | Score: +3.75 (L:+3.8/S:+3.5)
+2025-10-15 22:30:38,786 - INFO -   📊 Decision: NEUTRAL | Confidence: 48.8% | R:R 1.47
+2025-10-15 22:30:38,786 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.8) chưa đủ mạnh
+2025-10-15 22:30:38,955 - INFO -   ✅ Lấy dữ liệu nến EIGEN từ _get_binance_klines: 200 nến
+2025-10-15 22:30:38,982 - INFO -   ✅ Direction: LONG | Score: +4.05 (L:+4.0/S:+3.0)
+2025-10-15 22:30:38,983 - INFO -   📊 Decision: BUY | Confidence: 55.6% | R:R 2.12
+2025-10-15 22:30:38,983 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.0) chưa đủ mạnh
+2025-10-15 22:30:39,124 - INFO -   ✅ Lấy dữ liệu nến MORPHO từ _get_binance_klines: 200 nến
+2025-10-15 22:30:39,153 - INFO -   ✅ Direction: SHORT | Score: +2.65 (L:+1.1/S:+2.6)
+2025-10-15 22:30:39,153 - INFO -   📊 Decision: NEUTRAL | Confidence: 43.2% | R:R 2.11
+2025-10-15 22:30:39,153 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm SHORT (2.6) chưa đủ mạnh
+2025-10-15 22:30:39,294 - INFO -   ✅ Lấy dữ liệu nến RSR từ _get_binance_klines: 200 nến
+2025-10-15 22:30:39,322 - INFO -   ✅ Direction: SHORT | Score: +6.20 (L:+2.4/S:+6.2)
+2025-10-15 22:30:39,322 - INFO -   📊 Decision: SELL | Confidence: 81.0% | R:R 2.10
+2025-10-15 22:30:39,323 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (6.2 >= 5.5) và risk chấp nhận được (LOW)
+2025-10-15 22:30:39,352 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,353 - WARNING - ⚠️ Mất kết nối Binance WebSocket REI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,353 - WARNING - ⚠️ Mất kết nối Binance WebSocket ASTER: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,354 - WARNING - ⚠️ Mất kết nối Binance WebSocket VIRTUAL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,354 - WARNING - ⚠️ Mất kết nối Bybit WebSocket VIRTUAL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,354 - WARNING - ⚠️ Mất kết nối Binance WebSocket FLUID: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,354 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ATH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,355 - WARNING - ⚠️ Mất kết nối Binance WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,355 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ASTER: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,355 - WARNING - ⚠️ Mất kết nối Binance WebSocket RSR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,356 - WARNING - ⚠️ Mất kết nối Bybit WebSocket REI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,356 - WARNING - ⚠️ Mất kết nối Binance WebSocket EVAA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,356 - WARNING - ⚠️ Mất kết nối Bybit WebSocket KTA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,356 - WARNING - ⚠️ Mất kết nối Bybit WebSocket FORM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,357 - WARNING - ⚠️ Mất kết nối Bybit WebSocket SNX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,357 - WARNING - ⚠️ Mất kết nối Binance WebSocket MORPHO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,357 - WARNING - ⚠️ Mất kết nối Binance WebSocket WLFI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,357 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RSR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,357 - WARNING - ⚠️ Mất kết nối Binance WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,358 - WARNING - ⚠️ Mất kết nối Bybit WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,358 - WARNING - ⚠️ Mất kết nối Binance WebSocket FORM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,358 - WARNING - ⚠️ Mất kết nối Bybit WebSocket COAI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,359 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,359 - WARNING - ⚠️ Mất kết nối Binance WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,359 - WARNING - ⚠️ Mất kết nối Bybit WebSocket NOICE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,359 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MORPHO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,359 - WARNING - ⚠️ Mất kết nối Binance WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,360 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MNT: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,360 - WARNING - ⚠️ Mất kết nối Binance WebSocket MNT: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,360 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,360 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EVAA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,360 - WARNING - ⚠️ Mất kết nối Binance WebSocket NOICE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,361 - WARNING - ⚠️ Mất kết nối Bybit WebSocket WLFI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,361 - WARNING - ⚠️ Mất kết nối Binance WebSocket SNX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,361 - WARNING - ⚠️ Mất kết nối Bybit WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,361 - WARNING - ⚠️ Mất kết nối Binance WebSocket KTA: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,362 - WARNING - ⚠️ Mất kết nối Binance WebSocket ATH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,362 - WARNING - ⚠️ Mất kết nối Binance WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,362 - WARNING - ⚠️ Mất kết nối Bybit WebSocket FLUID: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,363 - WARNING - ⚠️ Mất kết nối Binance WebSocket COAI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,363 - WARNING - ⚠️ Mất kết nối Binance Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:30:39,364 - WARNING - ⚠️ Mất kết nối Bybit Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 22:58:28,383 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-15 22:58:29,572 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-15 22:58:30,559 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-15 22:58:32,357 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-15 22:58:36,715 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-15 22:58:38,339 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-15 22:59:53,978 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-15 22:59:55,518 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-15 22:59:56,598 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-15 22:59:58,409 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-15 23:00:02,530 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-15 23:00:04,149 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-15 23:00:04,162 - INFO - 🚀 Starting real-time data streams...
+2025-10-15 23:00:04,173 - INFO - 🔌 Khởi động WebSocket cho 20 symbols trên multiple exchanges
+2025-10-15 23:00:04,174 - INFO - 🔌 Khởi động liquidation monitor
+2025-10-15 23:00:04,530 - INFO - ✅ Đã kết nối Binance WebSocket cho AAVE
+2025-10-15 23:00:04,537 - INFO - ✅ Đã kết nối Binance WebSocket cho BTCB
+2025-10-15 23:00:04,537 - INFO - ✅ Đã kết nối Binance WebSocket cho ETH
+2025-10-15 23:00:04,538 - INFO - ✅ Đã kết nối Binance WebSocket cho OHM
+2025-10-15 23:00:04,544 - INFO - ✅ Đã kết nối Binance WebSocket cho MPLX
+2025-10-15 23:00:04,544 - INFO - ✅ Đã kết nối Binance WebSocket cho BNB
+2025-10-15 23:00:04,545 - INFO - ✅ Đã kết nối Binance WebSocket cho BNKR
+2025-10-15 23:00:04,559 - INFO - ✅ Đã kết nối Binance WebSocket cho PALU
+2025-10-15 23:00:04,559 - INFO - ✅ Đã kết nối Binance WebSocket cho WEED
+2025-10-15 23:00:04,559 - INFO - ✅ Đã kết nối Binance WebSocket cho ZK
+2025-10-15 23:00:04,560 - INFO - ✅ Đã kết nối Binance WebSocket cho SOL
+2025-10-15 23:00:04,560 - INFO - ✅ Đã kết nối Binance WebSocket cho EIGEN
+2025-10-15 23:00:04,574 - INFO - ✅ Đã kết nối Binance WebSocket cho TIBBIR
+2025-10-15 23:00:04,576 - INFO - ✅ Đã kết nối Binance WebSocket cho AERO
+2025-10-15 23:00:04,576 - INFO - ✅ Đã kết nối Binance WebSocket cho LINK
+2025-10-15 23:00:04,577 - INFO - ✅ Đã kết nối Binance WebSocket cho BROCCOLI
+2025-10-15 23:00:04,577 - INFO - ✅ Đã kết nối Binance WebSocket cho ZIPSTREAMPHP
+2025-10-15 23:00:04,578 - INFO - ✅ Đã kết nối Binance WebSocket cho RAIL
+2025-10-15 23:00:04,580 - INFO - ✅ Đã kết nối Binance WebSocket cho CLO
+2025-10-15 23:00:04,581 - INFO - ✅ Đã kết nối Binance WebSocket cho ZORATV
+2025-10-15 23:00:04,944 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-15 23:00:06,373 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZK
+2025-10-15 23:00:06,374 - INFO - ✅ Đã kết nối Bybit WebSocket cho ETH
+2025-10-15 23:00:06,374 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZORATV
+2025-10-15 23:00:06,375 - INFO - ✅ Đã kết nối Bybit WebSocket cho BROCCOLI
+2025-10-15 23:00:06,377 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZIPSTREAMPHP
+2025-10-15 23:00:06,378 - INFO - ✅ Đã kết nối Bybit WebSocket cho LINK
+2025-10-15 23:00:06,382 - INFO - ✅ Đã kết nối Bybit WebSocket cho AERO
+2025-10-15 23:00:06,392 - INFO - ✅ Đã kết nối Bybit WebSocket cho EIGEN
+2025-10-15 23:00:06,393 - INFO - ✅ Đã kết nối Bybit WebSocket cho SOL
+2025-10-15 23:00:06,393 - INFO - ✅ Đã kết nối Bybit WebSocket cho MPLX
+2025-10-15 23:00:06,394 - INFO - ✅ Đã kết nối Bybit WebSocket cho AAVE
+2025-10-15 23:00:06,398 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-15 23:00:06,461 - INFO - ✅ Đã kết nối Bybit WebSocket cho BTCB
+2025-10-15 23:00:06,463 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNKR
+2025-10-15 23:00:06,466 - INFO - ✅ Đã kết nối Bybit WebSocket cho WEED
+2025-10-15 23:00:06,490 - INFO - ✅ Đã kết nối Bybit WebSocket cho TIBBIR
+2025-10-15 23:00:06,502 - INFO - ✅ Đã kết nối Bybit WebSocket cho PALU
+2025-10-15 23:00:06,512 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-15 23:00:06,515 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNB
+2025-10-15 23:00:06,519 - INFO - ✅ Đã kết nối Binance liquidation WebSocket
+2025-10-15 23:00:06,585 - INFO - ✅ Đã kết nối Bybit WebSocket cho CLO
+2025-10-15 23:00:09,174 - INFO - ✅ WebSocket streams đã sẵn sàng
+2025-10-15 23:00:09,175 - INFO - ✅ Real-time data streams đã được khởi động
+2025-10-15 23:00:19,555 - INFO - ₿ BTC Dominance REAL-TIME: 57.20%
+2025-10-15 23:00:20,788 - INFO - 💵 DXY Index (YahooChart DX=F): 98.47000122070312
+2025-10-15 23:00:20,790 - INFO - ☁️ Market Regime REAL-TIME: NEUTRAL
+2025-10-15 23:00:31,437 - INFO -   🔍 Analyzing BTCB with REAL-TIME data...
+2025-10-15 23:00:33,427 - WARNING -   ⚠️ Sử dụng giá ước tính cho BTCB: $5.000000
+2025-10-15 23:00:33,428 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:33,442 - INFO -   🔍 Analyzing ZK with REAL-TIME data...
+2025-10-15 23:00:33,576 - INFO -   ✅ Lấy giá ZK từ binance: $0.038360
+2025-10-15 23:00:33,576 - INFO -   💰 Price: $0.038360 (Source: binance)
+2025-10-15 23:00:33,582 - INFO -   🔍 Analyzing MPLX with REAL-TIME data...
+2025-10-15 23:00:34,648 - INFO -   ✅ Lấy giá MPLX từ gateio: $0.286600
+2025-10-15 23:00:34,648 - INFO -   💰 Price: $0.286600 (Source: gateio)
+2025-10-15 23:00:34,655 - INFO -   🔍 Analyzing AERO with REAL-TIME data...
+2025-10-15 23:00:34,806 - INFO -   ✅ Lấy giá AERO từ binance: $0.850400
+2025-10-15 23:00:34,806 - INFO -   💰 Price: $0.850400 (Source: binance)
+2025-10-15 23:00:34,807 - INFO -   🔍 Analyzing LINK with REAL-TIME data...
+2025-10-15 23:00:34,950 - INFO -   ✅ Lấy giá LINK từ binance: $18.100000
+2025-10-15 23:00:34,951 - INFO -   💰 Price: $18.100000 (Source: binance)
+2025-10-15 23:00:34,952 - INFO -   🔍 Analyzing ETH with REAL-TIME data...
+2025-10-15 23:00:35,106 - INFO -   ✅ Lấy giá ETH từ binance: $3975.310000
+2025-10-15 23:00:35,106 - INFO -   💰 Price: $3975.310000 (Source: binance)
+2025-10-15 23:00:35,107 - INFO -   🔍 Analyzing RAIL with REAL-TIME data...
+2025-10-15 23:00:36,403 - INFO -   ✅ Lấy giá RAIL từ mexc: $3.593000
+2025-10-15 23:00:36,403 - INFO -   💰 Price: $3.593000 (Source: mexc)
+2025-10-15 23:00:36,414 - INFO -   🔍 Analyzing EIGEN with REAL-TIME data...
+2025-10-15 23:00:36,566 - INFO -   ✅ Lấy giá EIGEN từ binance: $1.278900
+2025-10-15 23:00:36,567 - INFO -   💰 Price: $1.278900 (Source: binance)
+2025-10-15 23:00:36,569 - INFO -   🔍 Analyzing OHM with REAL-TIME data...
+2025-10-15 23:00:38,510 - WARNING -   ⚠️ Sử dụng giá ước tính cho OHM: $5.000000
+2025-10-15 23:00:38,511 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:38,527 - INFO -   🔍 Analyzing AAVE with REAL-TIME data...
+2025-10-15 23:00:38,668 - INFO -   ✅ Lấy giá AAVE từ binance: $242.720000
+2025-10-15 23:00:38,668 - INFO -   💰 Price: $242.720000 (Source: binance)
+2025-10-15 23:00:38,669 - INFO -   🔍 Analyzing BNB with REAL-TIME data...
+2025-10-15 23:00:38,811 - INFO -   ✅ Lấy giá BNB từ binance: $1168.210000
+2025-10-15 23:00:38,812 - INFO -   💰 Price: $1168.210000 (Source: binance)
+2025-10-15 23:00:38,813 - INFO -   🔍 Analyzing CLO with REAL-TIME data...
+2025-10-15 23:00:38,970 - INFO -   ✅ Lấy giá CLO từ binance: $0.652140
+2025-10-15 23:00:38,970 - INFO -   💰 Price: $0.652140 (Source: binance)
+2025-10-15 23:00:38,971 - INFO -   🔍 Analyzing WEED with REAL-TIME data...
+2025-10-15 23:00:40,878 - WARNING -   ⚠️ Sử dụng giá ước tính cho WEED: $5.000000
+2025-10-15 23:00:40,879 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:40,892 - INFO -   🔍 Analyzing PALU with REAL-TIME data...
+2025-10-15 23:00:42,087 - INFO -   ✅ Lấy giá PALU từ mexc: $0.028440
+2025-10-15 23:00:42,088 - INFO -   💰 Price: $0.028440 (Source: mexc)
+2025-10-15 23:00:42,101 - INFO -   🔍 Analyzing BROCCOLI with REAL-TIME data...
+2025-10-15 23:00:42,506 - INFO -   ✅ Lấy giá BROCCOLI từ bybit: $0.027380
+2025-10-15 23:00:42,506 - INFO -   💰 Price: $0.027380 (Source: bybit)
+2025-10-15 23:00:42,508 - INFO -   🔍 Analyzing ZORATV with REAL-TIME data...
+2025-10-15 23:00:44,367 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZORATV: $5.000000
+2025-10-15 23:00:44,368 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:44,384 - INFO -   🔍 Analyzing SOL with REAL-TIME data...
+2025-10-15 23:00:44,535 - INFO -   ✅ Lấy giá SOL từ binance: $197.290000
+2025-10-15 23:00:44,536 - INFO -   💰 Price: $197.290000 (Source: binance)
+2025-10-15 23:00:44,536 - INFO -   🔍 Analyzing BNKR with REAL-TIME data...
+2025-10-15 23:00:46,238 - WARNING -   ⚠️ Sử dụng giá ước tính cho BNKR: $5.000000
+2025-10-15 23:00:46,239 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:46,247 - INFO -   🔍 Analyzing ZIPSTREAMPHP with REAL-TIME data...
+2025-10-15 23:00:47,940 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZIPSTREAMPHP: $5.000000
+2025-10-15 23:00:47,940 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:47,955 - INFO -   🔍 Analyzing TIBBIR with REAL-TIME data...
+2025-10-15 23:00:49,629 - WARNING -   ⚠️ Sử dụng giá ước tính cho TIBBIR: $5.000000
+2025-10-15 23:00:49,630 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:00:50,423 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BTCB
+2025-10-15 23:00:50,456 - INFO -   ✅ Direction: LONG | Score: +6.10 (L:+6.1/S:+1.8)
+2025-10-15 23:00:50,456 - INFO -   📊 Decision: BUY | Confidence: 80.5% | R:R 2.01
+2025-10-15 23:00:50,456 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.1) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 23:00:51,021 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho MPLX
+2025-10-15 23:00:51,044 - INFO -   ✅ Direction: LONG | Score: +4.60 (L:+4.6/S:+1.4)
+2025-10-15 23:00:51,045 - INFO -   📊 Decision: BUY | Confidence: 73.0% | R:R 2.00
+2025-10-15 23:00:51,045 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.6) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 23:00:51,709 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho OHM
+2025-10-15 23:00:51,738 - INFO -   ✅ Direction: LONG | Score: +5.05 (L:+5.0/S:+1.8)
+2025-10-15 23:00:51,738 - INFO -   📊 Decision: BUY | Confidence: 75.2% | R:R 2.02
+2025-10-15 23:00:51,738 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (5.0) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 23:00:52,510 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho WEED
+2025-10-15 23:00:52,533 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+1.8)
+2025-10-15 23:00:52,533 - INFO -   📊 Decision: NEUTRAL | Confidence: 59.1% | R:R 2.02
+2025-10-15 23:00:52,533 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-15 23:00:53,576 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho TIBBIR
+2025-10-15 23:00:53,599 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+1.8)
+2025-10-15 23:00:53,599 - INFO -   📊 Decision: BUY | Confidence: 58.7% | R:R 2.02
+2025-10-15 23:00:53,599 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 23:00:53,769 - INFO -   ✅ Lấy dữ liệu nến SOL từ _get_binance_klines: 200 nến
+2025-10-15 23:00:53,802 - INFO -   ✅ Direction: LONG | Score: +4.65 (L:+4.7/S:+3.5)
+2025-10-15 23:00:53,803 - INFO -   📊 Decision: BUY | Confidence: 53.2% | R:R 1.51
+2025-10-15 23:00:53,803 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (4.7 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:53,858 - INFO - ✅ Đã kết nối Binance WebSocket cho SOL
+2025-10-15 23:00:54,451 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BNKR
+2025-10-15 23:00:54,485 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+1.8)
+2025-10-15 23:00:54,485 - INFO -   📊 Decision: BUY | Confidence: 51.5% | R:R 2.02
+2025-10-15 23:00:54,485 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 23:00:55,080 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZIPSTREAMPHP
+2025-10-15 23:00:55,110 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+1.8)
+2025-10-15 23:00:55,110 - INFO -   📊 Decision: BUY | Confidence: 65.3% | R:R 2.02
+2025-10-15 23:00:55,110 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 23:00:55,742 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZORATV
+2025-10-15 23:00:55,771 - INFO -   ✅ Direction: LONG | Score: +5.00 (L:+5.0/S:+1.8)
+2025-10-15 23:00:55,771 - INFO -   📊 Decision: BUY | Confidence: 75.0% | R:R 2.02
+2025-10-15 23:00:55,772 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (5.0) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 23:00:55,956 - INFO -   ✅ Lấy dữ liệu nến LINK từ _get_binance_klines: 200 nến
+2025-10-15 23:00:55,989 - INFO -   ✅ Direction: LONG | Score: +7.40 (L:+7.4/S:+3.1)
+2025-10-15 23:00:55,990 - INFO -   📊 Decision: BUY | Confidence: 87.0% | R:R 1.45
+2025-10-15 23:00:55,990 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.4 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:56,606 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho PALU
+2025-10-15 23:00:56,629 - INFO -   ✅ Direction: LONG | Score: +3.85 (L:+3.9/S:+1.4)
+2025-10-15 23:00:56,630 - INFO -   📊 Decision: NEUTRAL | Confidence: 49.2% | R:R 2.00
+2025-10-15 23:00:56,630 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.9) chưa đủ mạnh
+2025-10-15 23:00:56,802 - INFO -   ✅ Lấy dữ liệu nến EIGEN từ _get_binance_klines: 200 nến
+2025-10-15 23:00:56,831 - INFO -   ✅ Direction: LONG | Score: +6.50 (L:+6.5/S:+2.9)
+2025-10-15 23:00:56,831 - INFO -   📊 Decision: BUY | Confidence: 82.5% | R:R 2.12
+2025-10-15 23:00:56,832 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:56,992 - INFO -   ✅ Lấy dữ liệu nến ZK từ _get_binance_klines: 200 nến
+2025-10-15 23:00:57,018 - INFO -   ✅ Direction: LONG | Score: +7.50 (L:+7.5/S:+3.1)
+2025-10-15 23:00:57,018 - INFO -   📊 Decision: BUY | Confidence: 87.5% | R:R 2.11
+2025-10-15 23:00:57,019 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:57,503 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho CLO
+2025-10-15 23:00:57,532 - INFO -   ✅ Direction: LONG | Score: +6.45 (L:+6.5/S:+2.2)
+2025-10-15 23:00:57,532 - INFO -   📊 Decision: BUY | Confidence: 82.2% | R:R 2.00
+2025-10-15 23:00:57,533 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.5 >= 4.5) và risk chấp nhận được (LOW)
+2025-10-15 23:00:57,694 - INFO -   ✅ Lấy dữ liệu nến BNB từ _get_binance_klines: 200 nến
+2025-10-15 23:00:57,730 - INFO -   ✅ Direction: LONG | Score: +6.25 (L:+6.2/S:+2.7)
+2025-10-15 23:00:57,730 - INFO -   📊 Decision: BUY | Confidence: 62.5% | R:R 1.33
+2025-10-15 23:00:57,730 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.2 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:58,297 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho RAIL
+2025-10-15 23:00:58,329 - INFO -   ✅ Direction: LONG | Score: +5.60 (L:+5.6/S:+1.4)
+2025-10-15 23:00:58,329 - INFO -   📊 Decision: BUY | Confidence: 78.0% | R:R 2.01
+2025-10-15 23:00:58,329 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (5.6) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 23:00:58,482 - INFO -   ✅ Lấy dữ liệu nến AERO từ _get_binance_klines: 200 nến
+2025-10-15 23:00:58,510 - INFO -   ✅ Direction: LONG | Score: +6.80 (L:+6.8/S:+3.1)
+2025-10-15 23:00:58,510 - INFO -   📊 Decision: BUY | Confidence: 84.0% | R:R 1.67
+2025-10-15 23:00:58,510 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.8 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:58,661 - INFO -   ✅ Lấy dữ liệu nến ETH từ _get_binance_klines: 200 nến
+2025-10-15 23:00:58,688 - INFO -   ✅ Direction: LONG | Score: +6.95 (L:+7.0/S:+2.7)
+2025-10-15 23:00:58,688 - INFO -   📊 Decision: BUY | Confidence: 84.8% | R:R 1.25
+2025-10-15 23:00:58,689 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.0 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:58,846 - INFO -   ✅ Lấy dữ liệu nến AAVE từ _get_binance_klines: 200 nến
+2025-10-15 23:00:58,875 - INFO -   ✅ Direction: LONG | Score: +6.35 (L:+6.3/S:+2.1)
+2025-10-15 23:00:58,875 - INFO -   📊 Decision: BUY | Confidence: 81.8% | R:R 1.50
+2025-10-15 23:00:58,876 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.3) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 23:00:59,473 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BROCCOLI
+2025-10-15 23:00:59,500 - INFO -   ✅ Direction: LONG | Score: +5.45 (L:+5.5/S:+2.2)
+2025-10-15 23:00:59,500 - INFO -   📊 Decision: BUY | Confidence: 72.2% | R:R 2.00
+2025-10-15 23:00:59,500 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:00:59,541 - WARNING - ⚠️ Mất kết nối Binance WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,541 - WARNING - ⚠️ Mất kết nối Binance WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,541 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,542 - WARNING - ⚠️ Mất kết nối Bybit WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,542 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,542 - WARNING - ⚠️ Mất kết nối Binance WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,543 - WARNING - ⚠️ Mất kết nối Binance WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,543 - WARNING - ⚠️ Mất kết nối Bybit WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,543 - WARNING - ⚠️ Mất kết nối Binance WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,544 - WARNING - ⚠️ Mất kết nối Binance WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,544 - WARNING - ⚠️ Mất kết nối Binance WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,544 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,545 - WARNING - ⚠️ Mất kết nối Binance WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,545 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,545 - WARNING - ⚠️ Mất kết nối Bybit WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,546 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,546 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,546 - WARNING - ⚠️ Mất kết nối Binance WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,546 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,547 - WARNING - ⚠️ Mất kết nối Bybit WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,547 - WARNING - ⚠️ Mất kết nối Binance WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,547 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,548 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,548 - WARNING - ⚠️ Mất kết nối Bybit WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,549 - WARNING - ⚠️ Mất kết nối Binance WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,549 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,549 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,550 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,550 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,550 - WARNING - ⚠️ Mất kết nối Binance WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,551 - WARNING - ⚠️ Mất kết nối Bybit WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,551 - WARNING - ⚠️ Mất kết nối Binance WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,551 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,552 - WARNING - ⚠️ Mất kết nối Binance WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,552 - WARNING - ⚠️ Mất kết nối Bybit WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,552 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,552 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,553 - WARNING - ⚠️ Mất kết nối Binance WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,553 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,553 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,554 - WARNING - ⚠️ Mất kết nối Bybit Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:00:59,554 - WARNING - ⚠️ Mất kết nối Binance Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:14:08,225 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-15 23:14:09,543 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-15 23:14:10,565 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-15 23:14:12,360 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-15 23:14:16,444 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-15 23:14:17,986 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-15 23:14:17,988 - INFO - 🚀 Starting real-time data streams...
+2025-10-15 23:14:17,995 - INFO - 🔌 Khởi động WebSocket cho 20 symbols trên multiple exchanges
+2025-10-15 23:14:17,996 - INFO - 🔌 Khởi động liquidation monitor
+2025-10-15 23:14:18,349 - INFO - ✅ Đã kết nối Binance WebSocket cho ZIPSTREAMPHP
+2025-10-15 23:14:18,358 - INFO - ✅ Đã kết nối Binance WebSocket cho TIBBIR
+2025-10-15 23:14:18,359 - INFO - ✅ Đã kết nối Binance WebSocket cho CLO
+2025-10-15 23:14:18,360 - INFO - ✅ Đã kết nối Binance WebSocket cho BNB
+2025-10-15 23:14:18,377 - INFO - ✅ Đã kết nối Binance WebSocket cho BTCB
+2025-10-15 23:14:18,378 - INFO - ✅ Đã kết nối Binance WebSocket cho AAVE
+2025-10-15 23:14:18,379 - INFO - ✅ Đã kết nối Binance WebSocket cho MPLX
+2025-10-15 23:14:18,379 - INFO - ✅ Đã kết nối Binance WebSocket cho ETH
+2025-10-15 23:14:18,380 - INFO - ✅ Đã kết nối Binance WebSocket cho ZK
+2025-10-15 23:14:18,380 - INFO - ✅ Đã kết nối Binance WebSocket cho LINK
+2025-10-15 23:14:18,380 - INFO - ✅ Đã kết nối Binance WebSocket cho WEED
+2025-10-15 23:14:18,380 - INFO - ✅ Đã kết nối Binance WebSocket cho AERO
+2025-10-15 23:14:18,381 - INFO - ✅ Đã kết nối Binance WebSocket cho BROCCOLI
+2025-10-15 23:14:18,381 - INFO - ✅ Đã kết nối Binance WebSocket cho EIGEN
+2025-10-15 23:14:18,391 - INFO - ✅ Đã kết nối Binance WebSocket cho ZORATV
+2025-10-15 23:14:18,391 - INFO - ✅ Đã kết nối Binance WebSocket cho OHM
+2025-10-15 23:14:18,392 - INFO - ✅ Đã kết nối Binance WebSocket cho BNKR
+2025-10-15 23:14:18,392 - INFO - ✅ Đã kết nối Binance WebSocket cho RAIL
+2025-10-15 23:14:18,395 - INFO - ✅ Đã kết nối Binance WebSocket cho SOL
+2025-10-15 23:14:18,396 - INFO - ✅ Đã kết nối Binance WebSocket cho PALU
+2025-10-15 23:14:20,222 - INFO - ✅ Đã kết nối Bybit WebSocket cho EIGEN
+2025-10-15 23:14:20,237 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZIPSTREAMPHP
+2025-10-15 23:14:20,244 - INFO - ✅ Đã kết nối Bybit WebSocket cho BROCCOLI
+2025-10-15 23:14:20,246 - INFO - ✅ Đã kết nối Bybit WebSocket cho BTCB
+2025-10-15 23:14:20,246 - INFO - ✅ Đã kết nối Bybit WebSocket cho MPLX
+2025-10-15 23:14:20,261 - INFO - ✅ Đã kết nối Bybit WebSocket cho LINK
+2025-10-15 23:14:20,277 - INFO - ✅ Đã kết nối Bybit WebSocket cho AERO
+2025-10-15 23:14:20,277 - INFO - ✅ Đã kết nối Bybit WebSocket cho PALU
+2025-10-15 23:14:20,287 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNKR
+2025-10-15 23:14:20,289 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-15 23:14:20,290 - INFO - ✅ Đã kết nối Bybit WebSocket cho ETH
+2025-10-15 23:14:20,292 - INFO - ✅ Đã kết nối Bybit WebSocket cho SOL
+2025-10-15 23:14:20,301 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZK
+2025-10-15 23:14:20,318 - INFO - ✅ Đã kết nối Bybit WebSocket cho TIBBIR
+2025-10-15 23:14:20,319 - INFO - ✅ Đã kết nối Bybit WebSocket cho CLO
+2025-10-15 23:14:20,319 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-15 23:14:20,332 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNB
+2025-10-15 23:14:20,345 - INFO - ✅ Đã kết nối Bybit WebSocket cho AAVE
+2025-10-15 23:14:20,362 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-15 23:14:20,364 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZORATV
+2025-10-15 23:14:20,384 - INFO - ✅ Đã kết nối Bybit WebSocket cho WEED
+2025-10-15 23:14:20,385 - INFO - ✅ Đã kết nối Binance liquidation WebSocket
+2025-10-15 23:14:22,996 - INFO - ✅ WebSocket streams đã sẵn sàng
+2025-10-15 23:14:22,996 - INFO - ✅ Real-time data streams đã được khởi động
+2025-10-15 23:14:33,392 - INFO - ₿ BTC Dominance REAL-TIME: 57.25%
+2025-10-15 23:14:34,126 - INFO - 💵 DXY Index (YahooChart DX=F): 98.5199966430664
+2025-10-15 23:14:34,127 - INFO - ☁️ Market Regime REAL-TIME: NEUTRAL
+2025-10-15 23:14:35,638 - INFO -   🔍 Analyzing BTCB with REAL-TIME data...
+2025-10-15 23:14:37,706 - WARNING -   ⚠️ Sử dụng giá ước tính cho BTCB: $5.000000
+2025-10-15 23:14:37,707 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:37,715 - INFO -   🔍 Analyzing ZK with REAL-TIME data...
+2025-10-15 23:14:37,859 - INFO -   ✅ Lấy giá ZK từ binance: $0.038430
+2025-10-15 23:14:37,859 - INFO -   💰 Price: $0.038430 (Source: binance)
+2025-10-15 23:14:37,861 - INFO -   🔍 Analyzing MPLX with REAL-TIME data...
+2025-10-15 23:14:38,950 - INFO -   ✅ Lấy giá MPLX từ gateio: $0.286600
+2025-10-15 23:14:38,951 - INFO -   💰 Price: $0.286600 (Source: gateio)
+2025-10-15 23:14:38,958 - INFO -   🔍 Analyzing AERO with REAL-TIME data...
+2025-10-15 23:14:39,418 - INFO -   ✅ Lấy giá AERO từ binance: $0.852000
+2025-10-15 23:14:39,419 - INFO -   💰 Price: $0.852000 (Source: binance)
+2025-10-15 23:14:39,419 - INFO -   🔍 Analyzing LINK with REAL-TIME data...
+2025-10-15 23:14:39,737 - INFO -   ✅ Lấy giá LINK từ binance: $18.123000
+2025-10-15 23:14:39,737 - INFO -   💰 Price: $18.123000 (Source: binance)
+2025-10-15 23:14:39,737 - INFO -   🔍 Analyzing ETH with REAL-TIME data...
+2025-10-15 23:14:40,074 - INFO -   ✅ Lấy giá ETH từ binance: $3984.880000
+2025-10-15 23:14:40,074 - INFO -   💰 Price: $3984.880000 (Source: binance)
+2025-10-15 23:14:40,075 - INFO -   🔍 Analyzing RAIL with REAL-TIME data...
+2025-10-15 23:14:41,559 - INFO -   ✅ Lấy giá RAIL từ mexc: $3.579000
+2025-10-15 23:14:41,560 - INFO -   💰 Price: $3.579000 (Source: mexc)
+2025-10-15 23:14:41,573 - INFO -   🔍 Analyzing EIGEN with REAL-TIME data...
+2025-10-15 23:14:41,924 - INFO -   ✅ Lấy giá EIGEN từ binance: $1.283100
+2025-10-15 23:14:41,924 - INFO -   💰 Price: $1.283100 (Source: binance)
+2025-10-15 23:14:41,925 - INFO -   🔍 Analyzing OHM with REAL-TIME data...
+2025-10-15 23:14:44,065 - WARNING -   ⚠️ Sử dụng giá ước tính cho OHM: $5.000000
+2025-10-15 23:14:44,065 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:44,074 - INFO -   🔍 Analyzing AAVE with REAL-TIME data...
+2025-10-15 23:14:44,423 - INFO -   ✅ Lấy giá AAVE từ binance: $243.430000
+2025-10-15 23:14:44,424 - INFO -   💰 Price: $243.430000 (Source: binance)
+2025-10-15 23:14:44,425 - INFO -   🔍 Analyzing BNB with REAL-TIME data...
+2025-10-15 23:14:44,778 - INFO -   ✅ Lấy giá BNB từ binance: $1165.400000
+2025-10-15 23:14:44,778 - INFO -   💰 Price: $1165.400000 (Source: binance)
+2025-10-15 23:14:44,779 - INFO -   🔍 Analyzing CLO with REAL-TIME data...
+2025-10-15 23:14:45,134 - INFO -   ✅ Lấy giá CLO từ binance: $0.664020
+2025-10-15 23:14:45,134 - INFO -   💰 Price: $0.664020 (Source: binance)
+2025-10-15 23:14:45,135 - INFO -   🔍 Analyzing WEED with REAL-TIME data...
+2025-10-15 23:14:47,195 - WARNING -   ⚠️ Sử dụng giá ước tính cho WEED: $5.000000
+2025-10-15 23:14:47,196 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:47,213 - INFO -   🔍 Analyzing PALU with REAL-TIME data...
+2025-10-15 23:14:48,593 - INFO -   ✅ Lấy giá PALU từ mexc: $0.028730
+2025-10-15 23:14:48,594 - INFO -   💰 Price: $0.028730 (Source: mexc)
+2025-10-15 23:14:48,608 - INFO -   🔍 Analyzing BROCCOLI with REAL-TIME data...
+2025-10-15 23:14:49,188 - INFO -   ✅ Lấy giá BROCCOLI từ bybit: $0.027430
+2025-10-15 23:14:49,188 - INFO -   💰 Price: $0.027430 (Source: bybit)
+2025-10-15 23:14:49,190 - INFO -   🔍 Analyzing ZORATV with REAL-TIME data...
+2025-10-15 23:14:51,197 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZORATV: $5.000000
+2025-10-15 23:14:51,197 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:51,212 - INFO -   🔍 Analyzing SOL with REAL-TIME data...
+2025-10-15 23:14:51,560 - INFO -   ✅ Lấy giá SOL từ binance: $197.520000
+2025-10-15 23:14:51,560 - INFO -   💰 Price: $197.520000 (Source: binance)
+2025-10-15 23:14:51,561 - INFO -   🔍 Analyzing BNKR with REAL-TIME data...
+2025-10-15 23:14:53,446 - WARNING -   ⚠️ Sử dụng giá ước tính cho BNKR: $5.000000
+2025-10-15 23:14:53,446 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:53,453 - INFO -   🔍 Analyzing ZIPSTREAMPHP with REAL-TIME data...
+2025-10-15 23:14:55,206 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZIPSTREAMPHP: $5.000000
+2025-10-15 23:14:55,206 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:55,213 - INFO -   🔍 Analyzing TIBBIR with REAL-TIME data...
+2025-10-15 23:14:57,096 - WARNING -   ⚠️ Sử dụng giá ước tính cho TIBBIR: $5.000000
+2025-10-15 23:14:57,096 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-15 23:14:58,009 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BTCB
+2025-10-15 23:14:58,032 - INFO -   ✅ Direction: LONG | Score: +6.10 (L:+6.1/S:+2.2)
+2025-10-15 23:14:58,033 - INFO -   📊 Decision: BUY | Confidence: 80.5% | R:R 2.01
+2025-10-15 23:14:58,033 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.1) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 23:14:58,832 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho MPLX
+2025-10-15 23:14:58,853 - INFO -   ✅ Direction: LONG | Score: +4.60 (L:+4.6/S:+1.8)
+2025-10-15 23:14:58,854 - INFO -   📊 Decision: BUY | Confidence: 73.0% | R:R 2.00
+2025-10-15 23:14:58,854 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.6) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 23:14:59,598 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho OHM
+2025-10-15 23:14:59,619 - INFO -   ✅ Direction: LONG | Score: +5.05 (L:+5.0/S:+2.2)
+2025-10-15 23:14:59,619 - INFO -   📊 Decision: BUY | Confidence: 75.2% | R:R 2.02
+2025-10-15 23:14:59,619 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (5.0) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 23:15:00,506 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho WEED
+2025-10-15 23:15:00,527 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.2)
+2025-10-15 23:15:00,527 - INFO -   📊 Decision: NEUTRAL | Confidence: 59.1% | R:R 2.02
+2025-10-15 23:15:00,527 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-15 23:15:01,650 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BNKR
+2025-10-15 23:15:01,671 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-15 23:15:01,672 - INFO -   📊 Decision: BUY | Confidence: 51.5% | R:R 2.02
+2025-10-15 23:15:01,672 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 23:15:02,066 - INFO -   ✅ Lấy dữ liệu nến SOL từ _get_binance_klines: 200 nến
+2025-10-15 23:15:02,091 - INFO -   ✅ Direction: LONG | Score: +4.65 (L:+4.7/S:+4.0)
+2025-10-15 23:15:02,091 - INFO -   📊 Decision: BUY | Confidence: 53.2% | R:R 1.53
+2025-10-15 23:15:02,091 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (4.7 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:02,453 - INFO -   ✅ Lấy dữ liệu nến EIGEN từ _get_binance_klines: 200 nến
+2025-10-15 23:15:02,478 - INFO -   ✅ Direction: LONG | Score: +6.50 (L:+6.5/S:+3.2)
+2025-10-15 23:15:02,478 - INFO -   📊 Decision: BUY | Confidence: 82.5% | R:R 2.12
+2025-10-15 23:15:02,478 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:03,299 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZORATV
+2025-10-15 23:15:03,323 - INFO -   ✅ Direction: LONG | Score: +5.00 (L:+5.0/S:+2.2)
+2025-10-15 23:15:03,324 - INFO -   📊 Decision: BUY | Confidence: 75.0% | R:R 2.02
+2025-10-15 23:15:03,324 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (5.0) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-15 23:15:04,195 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho TIBBIR
+2025-10-15 23:15:04,216 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-15 23:15:04,216 - INFO -   📊 Decision: BUY | Confidence: 58.7% | R:R 2.02
+2025-10-15 23:15:04,216 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 23:15:05,048 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZIPSTREAMPHP
+2025-10-15 23:15:05,069 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-15 23:15:05,069 - INFO -   📊 Decision: BUY | Confidence: 65.3% | R:R 2.02
+2025-10-15 23:15:05,069 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-15 23:15:05,946 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho RAIL
+2025-10-15 23:15:05,984 - INFO -   ✅ Direction: LONG | Score: +5.60 (L:+5.6/S:+1.8)
+2025-10-15 23:15:05,984 - INFO -   📊 Decision: BUY | Confidence: 78.0% | R:R 2.01
+2025-10-15 23:15:05,984 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (5.6) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 23:15:06,344 - INFO -   ✅ Lấy dữ liệu nến ZK từ _get_binance_klines: 200 nến
+2025-10-15 23:15:06,382 - INFO -   ✅ Direction: LONG | Score: +7.50 (L:+7.5/S:+3.5)
+2025-10-15 23:15:06,382 - INFO -   📊 Decision: BUY | Confidence: 87.5% | R:R 2.12
+2025-10-15 23:15:06,382 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:06,742 - INFO -   ✅ Lấy dữ liệu nến AAVE từ _get_binance_klines: 200 nến
+2025-10-15 23:15:06,771 - INFO -   ✅ Direction: LONG | Score: +6.35 (L:+6.3/S:+2.5)
+2025-10-15 23:15:06,772 - INFO -   📊 Decision: BUY | Confidence: 81.8% | R:R 1.53
+2025-10-15 23:15:06,772 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.3) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-15 23:15:07,106 - INFO -   ✅ Lấy dữ liệu nến AERO từ _get_binance_klines: 200 nến
+2025-10-15 23:15:07,135 - INFO -   ✅ Direction: LONG | Score: +7.40 (L:+7.4/S:+3.5)
+2025-10-15 23:15:07,135 - INFO -   📊 Decision: BUY | Confidence: 87.0% | R:R 1.70
+2025-10-15 23:15:07,135 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.4 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:07,982 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho PALU
+2025-10-15 23:15:08,003 - INFO -   ✅ Direction: LONG | Score: +3.85 (L:+3.9/S:+1.8)
+2025-10-15 23:15:08,003 - INFO -   📊 Decision: NEUTRAL | Confidence: 49.2% | R:R 2.00
+2025-10-15 23:15:08,003 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.9) chưa đủ mạnh
+2025-10-15 23:15:08,339 - INFO -   ✅ Lấy dữ liệu nến ETH từ _get_binance_klines: 200 nến
+2025-10-15 23:15:08,364 - INFO -   ✅ Direction: LONG | Score: +6.95 (L:+7.0/S:+3.1)
+2025-10-15 23:15:08,364 - INFO -   📊 Decision: BUY | Confidence: 84.8% | R:R 1.28
+2025-10-15 23:15:08,364 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.0 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:09,194 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BROCCOLI
+2025-10-15 23:15:09,216 - INFO -   ✅ Direction: LONG | Score: +5.45 (L:+5.5/S:+2.6)
+2025-10-15 23:15:09,217 - INFO -   📊 Decision: BUY | Confidence: 72.2% | R:R 2.00
+2025-10-15 23:15:09,217 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:09,857 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho CLO
+2025-10-15 23:15:09,880 - INFO -   ✅ Direction: LONG | Score: +5.45 (L:+5.5/S:+2.6)
+2025-10-15 23:15:09,880 - INFO -   📊 Decision: BUY | Confidence: 77.2% | R:R 2.00
+2025-10-15 23:15:09,880 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.5 >= 4.5) và risk chấp nhận được (LOW)
+2025-10-15 23:15:10,239 - INFO -   ✅ Lấy dữ liệu nến BNB từ _get_binance_klines: 200 nến
+2025-10-15 23:15:10,272 - INFO -   ✅ Direction: LONG | Score: +6.25 (L:+6.2/S:+3.1)
+2025-10-15 23:15:10,272 - INFO -   📊 Decision: BUY | Confidence: 62.5% | R:R 1.39
+2025-10-15 23:15:10,272 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.2 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:10,610 - INFO -   ✅ Lấy dữ liệu nến LINK từ _get_binance_klines: 200 nến
+2025-10-15 23:15:10,635 - INFO -   ✅ Direction: LONG | Score: +7.40 (L:+7.4/S:+3.5)
+2025-10-15 23:15:10,635 - INFO -   📊 Decision: BUY | Confidence: 87.0% | R:R 1.49
+2025-10-15 23:15:10,635 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.4 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-15 23:15:10,686 - WARNING - ⚠️ Mất kết nối Binance WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,686 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,686 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,687 - WARNING - ⚠️ Mất kết nối Binance WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,687 - WARNING - ⚠️ Mất kết nối Bybit WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,687 - WARNING - ⚠️ Mất kết nối Bybit WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,688 - WARNING - ⚠️ Mất kết nối Binance WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,688 - WARNING - ⚠️ Mất kết nối Binance WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,688 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,689 - WARNING - ⚠️ Mất kết nối Binance WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,689 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,689 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,689 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,690 - WARNING - ⚠️ Mất kết nối Bybit WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,690 - WARNING - ⚠️ Mất kết nối Binance WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,690 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,691 - WARNING - ⚠️ Mất kết nối Bybit WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,691 - WARNING - ⚠️ Mất kết nối Bybit WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,691 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,691 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,692 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,692 - WARNING - ⚠️ Mất kết nối Binance WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,692 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,692 - WARNING - ⚠️ Mất kết nối Binance WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,693 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,693 - WARNING - ⚠️ Mất kết nối Binance WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,693 - WARNING - ⚠️ Mất kết nối Bybit WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,693 - WARNING - ⚠️ Mất kết nối Binance WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,693 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,694 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,694 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,694 - WARNING - ⚠️ Mất kết nối Binance WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,694 - WARNING - ⚠️ Mất kết nối Bybit WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,694 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,695 - WARNING - ⚠️ Mất kết nối Binance WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,695 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,695 - WARNING - ⚠️ Mất kết nối Binance WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,697 - WARNING - ⚠️ Mất kết nối Binance WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,698 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,698 - WARNING - ⚠️ Mất kết nối Binance WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,699 - WARNING - ⚠️ Mất kết nối Bybit Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-15 23:15:10,700 - WARNING - ⚠️ Mất kết nối Binance Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:06:04,086 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-16 00:06:05,489 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-16 00:06:06,512 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-16 00:06:13,265 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-16 00:06:17,254 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-16 00:06:18,818 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-16 00:06:18,820 - INFO - 🚀 Starting real-time data streams...
+2025-10-16 00:06:18,830 - INFO - 🔌 Khởi động WebSocket cho 20 symbols trên multiple exchanges
+2025-10-16 00:06:18,830 - INFO - 🔌 Khởi động liquidation monitor
+2025-10-16 00:06:19,175 - INFO - ✅ Đã kết nối Binance WebSocket cho WEED
+2025-10-16 00:06:19,187 - INFO - ✅ Đã kết nối Binance WebSocket cho ZORATV
+2025-10-16 00:06:19,187 - INFO - ✅ Đã kết nối Binance WebSocket cho AERO
+2025-10-16 00:06:19,187 - INFO - ✅ Đã kết nối Binance WebSocket cho PALU
+2025-10-16 00:06:19,189 - INFO - ✅ Đã kết nối Binance WebSocket cho ETH
+2025-10-16 00:06:19,189 - INFO - ✅ Đã kết nối Binance WebSocket cho SOL
+2025-10-16 00:06:19,190 - INFO - ✅ Đã kết nối Binance WebSocket cho LINK
+2025-10-16 00:06:19,191 - INFO - ✅ Đã kết nối Binance WebSocket cho ZIPSTREAMPHP
+2025-10-16 00:06:19,208 - INFO - ✅ Đã kết nối Binance WebSocket cho AAVE
+2025-10-16 00:06:19,209 - INFO - ✅ Đã kết nối Binance WebSocket cho MPLX
+2025-10-16 00:06:19,209 - INFO - ✅ Đã kết nối Binance WebSocket cho EIGEN
+2025-10-16 00:06:19,210 - INFO - ✅ Đã kết nối Binance WebSocket cho CLO
+2025-10-16 00:06:19,210 - INFO - ✅ Đã kết nối Binance WebSocket cho ZK
+2025-10-16 00:06:19,211 - INFO - ✅ Đã kết nối Binance WebSocket cho OHM
+2025-10-16 00:06:19,211 - INFO - ✅ Đã kết nối Binance WebSocket cho BNB
+2025-10-16 00:06:19,211 - INFO - ✅ Đã kết nối Binance WebSocket cho TIBBIR
+2025-10-16 00:06:19,212 - INFO - ✅ Đã kết nối Binance WebSocket cho BROCCOLI
+2025-10-16 00:06:19,214 - INFO - ✅ Đã kết nối Binance WebSocket cho RAIL
+2025-10-16 00:06:19,215 - INFO - ✅ Đã kết nối Binance WebSocket cho BTCB
+2025-10-16 00:06:19,216 - INFO - ✅ Đã kết nối Binance WebSocket cho BNKR
+2025-10-16 00:06:19,793 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-16 00:06:21,107 - INFO - ✅ Đã kết nối Bybit WebSocket cho AAVE
+2025-10-16 00:06:21,109 - INFO - ✅ Đã kết nối Bybit WebSocket cho TIBBIR
+2025-10-16 00:06:21,115 - INFO - ✅ Đã kết nối Bybit WebSocket cho BTCB
+2025-10-16 00:06:21,116 - INFO - ✅ Đã kết nối Bybit WebSocket cho BROCCOLI
+2025-10-16 00:06:21,120 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZORATV
+2025-10-16 00:06:21,121 - INFO - ✅ Đã kết nối Bybit WebSocket cho WEED
+2025-10-16 00:06:21,129 - INFO - ✅ Đã kết nối Bybit WebSocket cho MPLX
+2025-10-16 00:06:21,130 - INFO - ✅ Đã kết nối Bybit WebSocket cho LINK
+2025-10-16 00:06:21,133 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNKR
+2025-10-16 00:06:21,138 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZK
+2025-10-16 00:06:21,139 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNB
+2025-10-16 00:06:21,140 - INFO - ✅ Đã kết nối Bybit WebSocket cho AERO
+2025-10-16 00:06:21,142 - INFO - ✅ Đã kết nối Bybit WebSocket cho EIGEN
+2025-10-16 00:06:21,148 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-16 00:06:21,154 - INFO - ✅ Đã kết nối Binance liquidation WebSocket
+2025-10-16 00:06:21,155 - INFO - ✅ Đã kết nối Bybit WebSocket cho CLO
+2025-10-16 00:06:21,160 - INFO - ✅ Đã kết nối Bybit WebSocket cho PALU
+2025-10-16 00:06:21,161 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZIPSTREAMPHP
+2025-10-16 00:06:21,161 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-16 00:06:21,163 - INFO - ✅ Đã kết nối Bybit WebSocket cho ETH
+2025-10-16 00:06:21,164 - INFO - ✅ Đã kết nối Bybit WebSocket cho SOL
+2025-10-16 00:06:23,830 - INFO - ✅ WebSocket streams đã sẵn sàng
+2025-10-16 00:06:23,831 - INFO - ✅ Real-time data streams đã được khởi động
+2025-10-16 00:06:34,223 - INFO - ₿ BTC Dominance REAL-TIME: 57.18%
+2025-10-16 00:06:34,823 - INFO - 💵 DXY Index (YahooChart DX=F): 98.50499725341797
+2025-10-16 00:06:34,825 - INFO - ☁️ Market Regime REAL-TIME: NEUTRAL
+2025-10-16 00:06:37,685 - INFO -   🔍 Analyzing BTCB with REAL-TIME data...
+2025-10-16 00:06:41,206 - WARNING -   ⚠️ Sử dụng giá ước tính cho BTCB: $5.000000
+2025-10-16 00:06:41,206 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:06:41,217 - INFO -   🔍 Analyzing ZK with REAL-TIME data...
+2025-10-16 00:06:41,541 - INFO -   ✅ Lấy giá ZK từ binance: $0.038090
+2025-10-16 00:06:41,541 - INFO -   💰 Price: $0.038090 (Source: binance)
+2025-10-16 00:06:41,545 - INFO -   🔍 Analyzing MPLX with REAL-TIME data...
+2025-10-16 00:06:42,750 - INFO -   ✅ Lấy giá MPLX từ gateio: $0.286600
+2025-10-16 00:06:42,751 - INFO -   💰 Price: $0.286600 (Source: gateio)
+2025-10-16 00:06:42,759 - INFO -   🔍 Analyzing AERO with REAL-TIME data...
+2025-10-16 00:06:43,083 - INFO -   ✅ Lấy giá AERO từ binance: $0.852800
+2025-10-16 00:06:43,083 - INFO -   💰 Price: $0.852800 (Source: binance)
+2025-10-16 00:06:43,084 - INFO -   🔍 Analyzing LINK with REAL-TIME data...
+2025-10-16 00:06:43,427 - INFO -   ✅ Lấy giá LINK từ binance: $18.064000
+2025-10-16 00:06:43,427 - INFO -   💰 Price: $18.064000 (Source: binance)
+2025-10-16 00:06:43,427 - INFO -   🔍 Analyzing ETH with REAL-TIME data...
+2025-10-16 00:06:43,738 - INFO -   ✅ Lấy giá ETH từ binance: $3963.870000
+2025-10-16 00:06:43,738 - INFO -   💰 Price: $3963.870000 (Source: binance)
+2025-10-16 00:06:43,739 - INFO -   🔍 Analyzing RAIL with REAL-TIME data...
+2025-10-16 00:06:45,208 - INFO -   ✅ Lấy giá RAIL từ mexc: $3.617000
+2025-10-16 00:06:45,208 - INFO -   💰 Price: $3.617000 (Source: mexc)
+2025-10-16 00:06:45,215 - INFO -   🔍 Analyzing EIGEN with REAL-TIME data...
+2025-10-16 00:06:45,541 - INFO -   ✅ Lấy giá EIGEN từ binance: $1.283300
+2025-10-16 00:06:45,542 - INFO -   💰 Price: $1.283300 (Source: binance)
+2025-10-16 00:06:45,543 - INFO -   🔍 Analyzing OHM with REAL-TIME data...
+2025-10-16 00:06:49,221 - WARNING -   ⚠️ Sử dụng giá ước tính cho OHM: $5.000000
+2025-10-16 00:06:49,221 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:06:49,229 - INFO -   🔍 Analyzing AAVE with REAL-TIME data...
+2025-10-16 00:06:49,555 - INFO -   ✅ Lấy giá AAVE từ binance: $242.800000
+2025-10-16 00:06:49,555 - INFO -   💰 Price: $242.800000 (Source: binance)
+2025-10-16 00:06:49,556 - INFO -   🔍 Analyzing BNB with REAL-TIME data...
+2025-10-16 00:06:49,875 - INFO -   ✅ Lấy giá BNB từ binance: $1179.700000
+2025-10-16 00:06:49,876 - INFO -   💰 Price: $1179.700000 (Source: binance)
+2025-10-16 00:06:49,876 - INFO -   🔍 Analyzing CLO with REAL-TIME data...
+2025-10-16 00:06:50,190 - INFO -   ✅ Lấy giá CLO từ binance: $0.675540
+2025-10-16 00:06:50,190 - INFO -   💰 Price: $0.675540 (Source: binance)
+2025-10-16 00:06:50,191 - INFO -   🔍 Analyzing WEED with REAL-TIME data...
+2025-10-16 00:06:53,807 - WARNING -   ⚠️ Sử dụng giá ước tính cho WEED: $5.000000
+2025-10-16 00:06:53,807 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:06:53,816 - INFO -   🔍 Analyzing PALU with REAL-TIME data...
+2025-10-16 00:06:56,662 - INFO -   ✅ Lấy giá PALU từ mexc: $0.028580
+2025-10-16 00:06:56,663 - INFO -   💰 Price: $0.028580 (Source: mexc)
+2025-10-16 00:06:56,669 - INFO -   🔍 Analyzing BROCCOLI with REAL-TIME data...
+2025-10-16 00:06:59,016 - INFO -   ✅ Lấy giá BROCCOLI từ bybit: $0.027870
+2025-10-16 00:06:59,016 - INFO -   💰 Price: $0.027870 (Source: bybit)
+2025-10-16 00:06:59,018 - INFO -   🔍 Analyzing ZORATV with REAL-TIME data...
+2025-10-16 00:07:09,765 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZORATV: $5.000000
+2025-10-16 00:07:09,765 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:07:09,773 - INFO -   🔍 Analyzing SOL with REAL-TIME data...
+2025-10-16 00:07:10,083 - INFO -   ✅ Lấy giá SOL từ binance: $196.840000
+2025-10-16 00:07:10,083 - INFO -   💰 Price: $196.840000 (Source: binance)
+2025-10-16 00:07:10,084 - INFO -   🔍 Analyzing BNKR with REAL-TIME data...
+2025-10-16 00:07:13,581 - WARNING -   ⚠️ Sử dụng giá ước tính cho BNKR: $5.000000
+2025-10-16 00:07:13,581 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:07:13,589 - INFO -   🔍 Analyzing ZIPSTREAMPHP with REAL-TIME data...
+2025-10-16 00:07:17,096 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZIPSTREAMPHP: $5.000000
+2025-10-16 00:07:17,097 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:07:17,105 - INFO -   🔍 Analyzing TIBBIR with REAL-TIME data...
+2025-10-16 00:07:20,260 - WARNING -   ⚠️ Sử dụng giá ước tính cho TIBBIR: $5.000000
+2025-10-16 00:07:20,260 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 00:07:23,396 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BTCB
+2025-10-16 00:07:23,422 - INFO -   ✅ Direction: LONG | Score: +6.10 (L:+6.1/S:+2.2)
+2025-10-16 00:07:23,423 - INFO -   📊 Decision: BUY | Confidence: 80.5% | R:R 2.01
+2025-10-16 00:07:23,423 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.1) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-16 00:07:24,175 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho MPLX
+2025-10-16 00:07:24,200 - INFO -   ✅ Direction: LONG | Score: +4.60 (L:+4.6/S:+1.8)
+2025-10-16 00:07:24,201 - INFO -   📊 Decision: BUY | Confidence: 73.0% | R:R 2.00
+2025-10-16 00:07:24,201 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.6) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-16 00:07:24,892 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho OHM
+2025-10-16 00:07:24,919 - INFO -   ✅ Direction: LONG | Score: +5.05 (L:+5.0/S:+2.2)
+2025-10-16 00:07:24,919 - INFO -   📊 Decision: BUY | Confidence: 75.2% | R:R 2.02
+2025-10-16 00:07:24,919 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (5.0) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-16 00:07:25,660 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho WEED
+2025-10-16 00:07:25,683 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.2)
+2025-10-16 00:07:25,683 - INFO -   📊 Decision: NEUTRAL | Confidence: 59.1% | R:R 2.02
+2025-10-16 00:07:25,683 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-16 00:07:29,047 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZORATV
+2025-10-16 00:07:29,071 - INFO -   ✅ Direction: LONG | Score: +4.00 (L:+4.0/S:+2.2)
+2025-10-16 00:07:29,071 - INFO -   📊 Decision: BUY | Confidence: 70.0% | R:R 2.02
+2025-10-16 00:07:29,072 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.0) chưa đủ mạnh
+2025-10-16 00:07:29,906 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BNKR
+2025-10-16 00:07:29,930 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.2)
+2025-10-16 00:07:29,930 - INFO -   📊 Decision: NEUTRAL | Confidence: 46.5% | R:R 2.02
+2025-10-16 00:07:29,930 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-16 00:07:30,508 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZIPSTREAMPHP
+2025-10-16 00:07:30,534 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.2)
+2025-10-16 00:07:30,534 - INFO -   📊 Decision: NEUTRAL | Confidence: 60.3% | R:R 2.02
+2025-10-16 00:07:30,535 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-16 00:07:30,836 - INFO - ✅ Đã kết nối Bybit WebSocket cho PALU
+2025-10-16 00:07:30,842 - INFO - ✅ Đã kết nối Bybit WebSocket cho WEED
+2025-10-16 00:07:30,844 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZORATV
+2025-10-16 00:07:30,901 - INFO - ✅ Đã kết nối Bybit WebSocket cho MPLX
+2025-10-16 00:07:30,902 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-16 00:07:30,916 - INFO - ✅ Đã kết nối Bybit WebSocket cho TIBBIR
+2025-10-16 00:07:30,931 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-16 00:07:30,932 - INFO - ✅ Đã kết nối Bybit WebSocket cho BTCB
+2025-10-16 00:07:30,942 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-16 00:07:31,754 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho TIBBIR
+2025-10-16 00:07:31,778 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-16 00:07:31,778 - INFO -   📊 Decision: BUY | Confidence: 58.7% | R:R 2.02
+2025-10-16 00:07:31,779 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-16 00:07:31,780 - INFO - ✅ Đã kết nối Binance WebSocket cho CLO
+2025-10-16 00:07:32,143 - INFO -   ✅ Lấy dữ liệu nến SOL từ _get_binance_klines: 200 nến
+2025-10-16 00:07:32,172 - INFO -   ✅ Direction: LONG | Score: +4.05 (L:+4.0/S:+4.0)
+2025-10-16 00:07:32,172 - INFO -   📊 Decision: BUY | Confidence: 50.2% | R:R 1.47
+2025-10-16 00:07:32,173 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.0) chưa đủ mạnh
+2025-10-16 00:07:32,175 - INFO - ✅ Đã kết nối Bybit WebSocket cho CLO
+2025-10-16 00:07:32,177 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZIPSTREAMPHP
+2025-10-16 00:07:32,206 - INFO - ✅ Đã kết nối Binance WebSocket cho SOL
+2025-10-16 00:07:32,279 - INFO - ✅ Đã kết nối Binance WebSocket cho ETH
+2025-10-16 00:07:32,598 - INFO -   ✅ Lấy dữ liệu nến BNB từ _get_binance_klines: 200 nến
+2025-10-16 00:07:32,627 - INFO -   ✅ Direction: LONG | Score: +3.85 (L:+3.9/S:+3.1)
+2025-10-16 00:07:32,628 - INFO -   📊 Decision: NEUTRAL | Confidence: 50.4% | R:R 1.39
+2025-10-16 00:07:32,628 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.9) chưa đủ mạnh
+2025-10-16 00:07:34,756 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho RAIL
+2025-10-16 00:07:34,780 - INFO -   ✅ Direction: LONG | Score: +4.60 (L:+4.6/S:+1.8)
+2025-10-16 00:07:34,780 - INFO -   📊 Decision: BUY | Confidence: 73.0% | R:R 2.01
+2025-10-16 00:07:34,780 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.6) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-16 00:07:35,118 - INFO -   ✅ Lấy dữ liệu nến LINK từ _get_binance_klines: 200 nến
+2025-10-16 00:07:35,147 - INFO -   ✅ Direction: LONG | Score: +7.40 (L:+7.4/S:+3.5)
+2025-10-16 00:07:35,148 - INFO -   📊 Decision: BUY | Confidence: 87.0% | R:R 1.43
+2025-10-16 00:07:35,148 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.4 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 00:07:35,469 - INFO -   ✅ Lấy dữ liệu nến AAVE từ _get_binance_klines: 200 nến
+2025-10-16 00:07:35,498 - INFO -   ✅ Direction: LONG | Score: +6.35 (L:+6.3/S:+2.5)
+2025-10-16 00:07:35,498 - INFO -   📊 Decision: BUY | Confidence: 81.8% | R:R 1.48
+2025-10-16 00:07:35,499 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.3) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-16 00:07:37,618 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BROCCOLI
+2025-10-16 00:07:37,643 - INFO -   ✅ Direction: LONG | Score: +4.45 (L:+4.5/S:+3.6)
+2025-10-16 00:07:37,643 - INFO -   📊 Decision: BUY | Confidence: 67.3% | R:R 2.00
+2025-10-16 00:07:37,643 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.5) chưa đủ mạnh
+2025-10-16 00:07:37,978 - INFO -   ✅ Lấy dữ liệu nến ZK từ _get_binance_klines: 200 nến
+2025-10-16 00:07:38,006 - INFO -   ✅ Direction: LONG | Score: +8.10 (L:+8.1/S:+3.5)
+2025-10-16 00:07:38,007 - INFO -   📊 Decision: STRONG_BUY | Confidence: 90.5% | R:R 2.11
+2025-10-16 00:07:38,007 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (8.1 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 00:07:39,331 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho CLO
+2025-10-16 00:07:39,359 - INFO -   ✅ Direction: LONG | Score: +4.45 (L:+4.5/S:+3.6)
+2025-10-16 00:07:39,359 - INFO -   📊 Decision: BUY | Confidence: 72.2% | R:R 2.00
+2025-10-16 00:07:39,359 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.5) chưa đủ mạnh
+2025-10-16 00:07:39,698 - INFO -   ✅ Lấy dữ liệu nến EIGEN từ _get_binance_klines: 200 nến
+2025-10-16 00:07:39,727 - INFO -   ✅ Direction: LONG | Score: +5.50 (L:+5.5/S:+4.2)
+2025-10-16 00:07:39,727 - INFO -   📊 Decision: BUY | Confidence: 77.5% | R:R 2.11
+2025-10-16 00:07:39,727 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 00:07:40,068 - INFO -   ✅ Lấy dữ liệu nến AERO từ _get_binance_klines: 200 nến
+2025-10-16 00:07:40,097 - INFO -   ✅ Direction: LONG | Score: +5.80 (L:+5.8/S:+4.5)
+2025-10-16 00:07:40,097 - INFO -   📊 Decision: BUY | Confidence: 79.0% | R:R 1.64
+2025-10-16 00:07:40,097 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.8 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 00:07:40,416 - INFO -   ✅ Lấy dữ liệu nến ETH từ _get_binance_klines: 200 nến
+2025-10-16 00:07:40,445 - INFO -   ✅ Direction: LONG | Score: +6.35 (L:+6.3/S:+3.1)
+2025-10-16 00:07:40,445 - INFO -   📊 Decision: BUY | Confidence: 81.8% | R:R 1.24
+2025-10-16 00:07:40,445 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.3 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 00:07:41,234 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho PALU
+2025-10-16 00:07:41,261 - INFO -   ✅ Direction: LONG | Score: +2.85 (L:+2.9/S:+1.8)
+2025-10-16 00:07:41,261 - INFO -   📊 Decision: NEUTRAL | Confidence: 44.2% | R:R 2.00
+2025-10-16 00:07:41,261 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (2.9) chưa đủ mạnh
+2025-10-16 00:07:41,281 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNKR
+2025-10-16 00:07:41,352 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,352 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,352 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,353 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,353 - WARNING - ⚠️ Mất kết nối Bybit WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,353 - WARNING - ⚠️ Mất kết nối Bybit WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,354 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,354 - WARNING - ⚠️ Mất kết nối Binance WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,354 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,355 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,355 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,355 - WARNING - ⚠️ Mất kết nối Bybit WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,356 - WARNING - ⚠️ Mất kết nối Binance WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,356 - WARNING - ⚠️ Mất kết nối Binance WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,356 - WARNING - ⚠️ Mất kết nối Binance WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,357 - WARNING - ⚠️ Mất kết nối Binance WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,357 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,357 - WARNING - ⚠️ Mất kết nối Binance WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,357 - WARNING - ⚠️ Mất kết nối Binance WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,358 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,358 - WARNING - ⚠️ Mất kết nối Binance WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,359 - WARNING - ⚠️ Mất kết nối Binance WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,359 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,359 - WARNING - ⚠️ Mất kết nối Binance WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,360 - WARNING - ⚠️ Mất kết nối Bybit WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,360 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,360 - WARNING - ⚠️ Mất kết nối Binance WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,360 - WARNING - ⚠️ Mất kết nối Binance WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,360 - WARNING - ⚠️ Mất kết nối Binance WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,361 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,361 - WARNING - ⚠️ Mất kết nối Bybit WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,361 - WARNING - ⚠️ Mất kết nối Binance WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,362 - WARNING - ⚠️ Mất kết nối Bybit WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,362 - WARNING - ⚠️ Mất kết nối Binance WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,362 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,362 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,363 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,363 - WARNING - ⚠️ Mất kết nối Bybit WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,363 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,364 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,365 - WARNING - ⚠️ Mất kết nối Bybit Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 00:07:41,366 - WARNING - ⚠️ Mất kết nối Binance Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:32:25,927 - INFO - ✅ Khởi tạo thành công: binance
+2025-10-16 11:32:27,253 - INFO - ✅ Khởi tạo thành công: bybit
+2025-10-16 11:32:28,352 - INFO - ✅ Khởi tạo thành công: okx
+2025-10-16 11:32:32,627 - INFO - ✅ Khởi tạo thành công: bitget
+2025-10-16 11:32:36,974 - INFO - ✅ Khởi tạo thành công: gateio
+2025-10-16 11:32:38,706 - INFO - ✅ Khởi tạo thành công: mexc
+2025-10-16 11:32:38,707 - INFO - 🚀 Starting real-time data streams...
+2025-10-16 11:32:38,716 - INFO - 🔌 Khởi động WebSocket cho 20 symbols trên multiple exchanges
+2025-10-16 11:32:38,717 - INFO - 🔌 Khởi động liquidation monitor
+2025-10-16 11:32:39,055 - INFO - ✅ Đã kết nối Binance WebSocket cho ZK
+2025-10-16 11:32:39,057 - INFO - ✅ Đã kết nối Binance WebSocket cho WEED
+2025-10-16 11:32:39,064 - INFO - ✅ Đã kết nối Binance WebSocket cho MPLX
+2025-10-16 11:32:39,065 - INFO - ✅ Đã kết nối Binance WebSocket cho BTCB
+2025-10-16 11:32:39,065 - INFO - ✅ Đã kết nối Binance WebSocket cho CLO
+2025-10-16 11:32:39,067 - INFO - ✅ Đã kết nối Binance WebSocket cho ZIPSTREAMPHP
+2025-10-16 11:32:39,073 - INFO - ✅ Đã kết nối Binance WebSocket cho BNB
+2025-10-16 11:32:39,073 - INFO - ✅ Đã kết nối Binance WebSocket cho AERO
+2025-10-16 11:32:39,076 - INFO - ✅ Đã kết nối Binance WebSocket cho OHM
+2025-10-16 11:32:39,077 - INFO - ✅ Đã kết nối Binance WebSocket cho LINK
+2025-10-16 11:32:39,081 - INFO - ✅ Đã kết nối Binance WebSocket cho SOL
+2025-10-16 11:32:39,081 - INFO - ✅ Đã kết nối Binance WebSocket cho RAIL
+2025-10-16 11:32:39,089 - INFO - ✅ Đã kết nối Binance WebSocket cho ETH
+2025-10-16 11:32:39,089 - INFO - ✅ Đã kết nối Binance WebSocket cho AAVE
+2025-10-16 11:32:39,089 - INFO - ✅ Đã kết nối Binance WebSocket cho EIGEN
+2025-10-16 11:32:39,090 - INFO - ✅ Đã kết nối Binance WebSocket cho TIBBIR
+2025-10-16 11:32:39,090 - INFO - ✅ Đã kết nối Binance WebSocket cho BNKR
+2025-10-16 11:32:39,091 - INFO - ✅ Đã kết nối Binance WebSocket cho PALU
+2025-10-16 11:32:39,094 - INFO - ✅ Đã kết nối Binance WebSocket cho ZORATV
+2025-10-16 11:32:39,116 - INFO - ✅ Đã kết nối Binance WebSocket cho BROCCOLI
+2025-10-16 11:32:40,899 - INFO - ✅ Đã kết nối Bybit WebSocket cho RAIL
+2025-10-16 11:32:40,909 - INFO - ✅ Đã kết nối Bybit WebSocket cho TIBBIR
+2025-10-16 11:32:40,911 - INFO - ✅ Đã kết nối Bybit WebSocket cho LINK
+2025-10-16 11:32:40,929 - INFO - ✅ Đã kết nối Bybit WebSocket cho WEED
+2025-10-16 11:32:40,935 - INFO - ✅ Đã kết nối Bybit WebSocket cho MPLX
+2025-10-16 11:32:40,960 - INFO - ✅ Đã kết nối Bybit WebSocket cho SOL
+2025-10-16 11:32:40,961 - INFO - ✅ Đã kết nối Bybit WebSocket cho AAVE
+2025-10-16 11:32:40,969 - INFO - ✅ Đã kết nối Bybit WebSocket cho OHM
+2025-10-16 11:32:40,971 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZK
+2025-10-16 11:32:40,974 - INFO - ✅ Đã kết nối Bybit WebSocket cho CLO
+2025-10-16 11:32:40,977 - INFO - ✅ Đã kết nối Bybit liquidation WebSocket
+2025-10-16 11:32:40,986 - INFO - ✅ Đã kết nối Bybit WebSocket cho BTCB
+2025-10-16 11:32:40,998 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNKR
+2025-10-16 11:32:41,005 - INFO - ✅ Đã kết nối Bybit WebSocket cho ETH
+2025-10-16 11:32:41,013 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZIPSTREAMPHP
+2025-10-16 11:32:41,018 - INFO - ✅ Đã kết nối Bybit WebSocket cho ZORATV
+2025-10-16 11:32:41,023 - INFO - ✅ Đã kết nối Bybit WebSocket cho AERO
+2025-10-16 11:32:41,027 - INFO - ✅ Đã kết nối Bybit WebSocket cho EIGEN
+2025-10-16 11:32:41,063 - INFO - ✅ Đã kết nối Binance liquidation WebSocket
+2025-10-16 11:32:41,077 - INFO - ✅ Đã kết nối Bybit WebSocket cho PALU
+2025-10-16 11:32:41,078 - INFO - ✅ Đã kết nối Bybit WebSocket cho BNB
+2025-10-16 11:32:41,103 - INFO - ✅ Đã kết nối Bybit WebSocket cho BROCCOLI
+2025-10-16 11:32:43,718 - INFO - ✅ WebSocket streams đã sẵn sàng
+2025-10-16 11:32:43,718 - INFO - ✅ Real-time data streams đã được khởi động
+2025-10-16 11:32:54,153 - INFO - ₿ BTC Dominance REAL-TIME: 57.28%
+2025-10-16 11:32:54,863 - INFO - 💵 DXY Index (YahooChart DX=F): 98.31999969482422
+2025-10-16 11:32:54,864 - INFO - ☁️ Market Regime REAL-TIME: NEUTRAL
+2025-10-16 11:32:56,593 - INFO -   🔍 Analyzing BTCB with REAL-TIME data...
+2025-10-16 11:32:59,481 - WARNING -   ⚠️ Sử dụng giá ước tính cho BTCB: $5.000000
+2025-10-16 11:32:59,481 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:32:59,490 - INFO -   🔍 Analyzing ZK with REAL-TIME data...
+2025-10-16 11:32:59,637 - INFO -   ✅ Lấy giá ZK từ binance: $0.037820
+2025-10-16 11:32:59,637 - INFO -   💰 Price: $0.037820 (Source: binance)
+2025-10-16 11:32:59,641 - INFO -   🔍 Analyzing MPLX with REAL-TIME data...
+2025-10-16 11:33:01,644 - INFO -   ✅ Lấy giá MPLX từ gateio: $0.286600
+2025-10-16 11:33:01,644 - INFO -   💰 Price: $0.286600 (Source: gateio)
+2025-10-16 11:33:01,651 - INFO -   🔍 Analyzing AERO with REAL-TIME data...
+2025-10-16 11:33:01,791 - INFO -   ✅ Lấy giá AERO từ binance: $0.830700
+2025-10-16 11:33:01,792 - INFO -   💰 Price: $0.830700 (Source: binance)
+2025-10-16 11:33:01,792 - INFO -   🔍 Analyzing LINK with REAL-TIME data...
+2025-10-16 11:33:01,921 - INFO -   ✅ Lấy giá LINK từ binance: $18.161000
+2025-10-16 11:33:01,922 - INFO -   💰 Price: $18.161000 (Source: binance)
+2025-10-16 11:33:01,922 - INFO -   🔍 Analyzing ETH with REAL-TIME data...
+2025-10-16 11:33:02,069 - INFO -   ✅ Lấy giá ETH từ binance: $4024.480000
+2025-10-16 11:33:02,070 - INFO -   💰 Price: $4024.480000 (Source: binance)
+2025-10-16 11:33:02,071 - INFO -   🔍 Analyzing RAIL with REAL-TIME data...
+2025-10-16 11:33:03,396 - INFO -   ✅ Lấy giá RAIL từ mexc: $3.361000
+2025-10-16 11:33:03,396 - INFO -   💰 Price: $3.361000 (Source: mexc)
+2025-10-16 11:33:03,402 - INFO -   🔍 Analyzing EIGEN with REAL-TIME data...
+2025-10-16 11:33:03,556 - INFO -   ✅ Lấy giá EIGEN từ binance: $1.257100
+2025-10-16 11:33:03,557 - INFO -   💰 Price: $1.257100 (Source: binance)
+2025-10-16 11:33:03,558 - INFO -   🔍 Analyzing OHM with REAL-TIME data...
+2025-10-16 11:33:07,883 - WARNING -   ⚠️ Sử dụng giá ước tính cho OHM: $5.000000
+2025-10-16 11:33:07,883 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:33:07,892 - INFO -   🔍 Analyzing AAVE with REAL-TIME data...
+2025-10-16 11:33:08,037 - INFO -   ✅ Lấy giá AAVE từ binance: $241.150000
+2025-10-16 11:33:08,037 - INFO -   💰 Price: $241.150000 (Source: binance)
+2025-10-16 11:33:08,038 - INFO -   🔍 Analyzing BNB with REAL-TIME data...
+2025-10-16 11:33:08,184 - INFO -   ✅ Lấy giá BNB từ binance: $1186.410000
+2025-10-16 11:33:08,184 - INFO -   💰 Price: $1186.410000 (Source: binance)
+2025-10-16 11:33:08,184 - INFO -   🔍 Analyzing CLO with REAL-TIME data...
+2025-10-16 11:33:08,319 - INFO -   ✅ Lấy giá CLO từ binance: $0.434770
+2025-10-16 11:33:08,319 - INFO -   💰 Price: $0.434770 (Source: binance)
+2025-10-16 11:33:08,320 - INFO -   🔍 Analyzing WEED with REAL-TIME data...
+2025-10-16 11:33:11,922 - WARNING -   ⚠️ Sử dụng giá ước tính cho WEED: $5.000000
+2025-10-16 11:33:11,923 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:33:11,934 - INFO -   🔍 Analyzing PALU with REAL-TIME data...
+2025-10-16 11:33:13,314 - INFO -   ✅ Lấy giá PALU từ mexc: $0.029700
+2025-10-16 11:33:13,315 - INFO -   💰 Price: $0.029700 (Source: mexc)
+2025-10-16 11:33:13,323 - INFO -   🔍 Analyzing BROCCOLI with REAL-TIME data...
+2025-10-16 11:33:13,735 - INFO -   ✅ Lấy giá BROCCOLI từ bybit: $0.027720
+2025-10-16 11:33:13,735 - INFO -   💰 Price: $0.027720 (Source: bybit)
+2025-10-16 11:33:13,737 - INFO -   🔍 Analyzing ZORATV with REAL-TIME data...
+2025-10-16 11:33:17,141 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZORATV: $5.000000
+2025-10-16 11:33:17,141 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:33:17,150 - INFO -   🔍 Analyzing SOL with REAL-TIME data...
+2025-10-16 11:33:17,299 - INFO -   ✅ Lấy giá SOL từ binance: $194.310000
+2025-10-16 11:33:17,300 - INFO -   💰 Price: $194.310000 (Source: binance)
+2025-10-16 11:33:17,300 - INFO -   🔍 Analyzing BNKR with REAL-TIME data...
+2025-10-16 11:33:19,715 - WARNING -   ⚠️ Sử dụng giá ước tính cho BNKR: $5.000000
+2025-10-16 11:33:19,716 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:33:19,723 - INFO -   🔍 Analyzing ZIPSTREAMPHP with REAL-TIME data...
+2025-10-16 11:33:22,854 - WARNING -   ⚠️ Sử dụng giá ước tính cho ZIPSTREAMPHP: $5.000000
+2025-10-16 11:33:22,854 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:33:22,861 - INFO -   🔍 Analyzing TIBBIR with REAL-TIME data...
+2025-10-16 11:33:29,156 - WARNING -   ⚠️ Sử dụng giá ước tính cho TIBBIR: $5.000000
+2025-10-16 11:33:29,157 - INFO -   💰 Price: $5.000000 (Source: estimated)
+2025-10-16 11:33:29,831 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BTCB
+2025-10-16 11:33:29,885 - INFO -   ✅ Direction: LONG | Score: +6.10 (L:+6.1/S:+2.2)
+2025-10-16 11:33:29,885 - INFO -   📊 Decision: BUY | Confidence: 80.5% | R:R 2.01
+2025-10-16 11:33:29,886 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (6.1) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-16 11:33:30,470 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho MPLX
+2025-10-16 11:33:30,495 - INFO -   ✅ Direction: LONG | Score: +4.60 (L:+4.6/S:+1.8)
+2025-10-16 11:33:30,495 - INFO -   📊 Decision: BUY | Confidence: 73.0% | R:R 2.00
+2025-10-16 11:33:30,495 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.6) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-16 11:33:31,067 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho OHM
+2025-10-16 11:33:31,095 - INFO -   ✅ Direction: LONG | Score: +5.05 (L:+5.0/S:+2.2)
+2025-10-16 11:33:31,095 - INFO -   📊 Decision: BUY | Confidence: 75.2% | R:R 2.02
+2025-10-16 11:33:31,095 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (5.0) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-16 11:33:31,704 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho WEED
+2025-10-16 11:33:31,726 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.2)
+2025-10-16 11:33:31,727 - INFO -   📊 Decision: NEUTRAL | Confidence: 59.1% | R:R 2.02
+2025-10-16 11:33:31,727 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-16 11:33:32,301 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZORATV
+2025-10-16 11:33:32,323 - INFO -   ✅ Direction: LONG | Score: +4.00 (L:+4.0/S:+2.2)
+2025-10-16 11:33:32,324 - INFO -   📊 Decision: BUY | Confidence: 70.0% | R:R 2.02
+2025-10-16 11:33:32,324 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.0) chưa đủ mạnh
+2025-10-16 11:33:33,007 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BNKR
+2025-10-16 11:33:33,029 - INFO -   ✅ Direction: LONG | Score: +3.30 (L:+3.3/S:+2.2)
+2025-10-16 11:33:33,029 - INFO -   📊 Decision: NEUTRAL | Confidence: 46.5% | R:R 2.02
+2025-10-16 11:33:33,030 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.3) chưa đủ mạnh
+2025-10-16 11:33:34,006 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho ZIPSTREAMPHP
+2025-10-16 11:33:34,036 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-16 11:33:34,036 - INFO -   📊 Decision: BUY | Confidence: 65.3% | R:R 2.02
+2025-10-16 11:33:34,036 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-16 11:33:34,703 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho TIBBIR
+2025-10-16 11:33:34,726 - INFO -   ✅ Direction: LONG | Score: +4.30 (L:+4.3/S:+2.2)
+2025-10-16 11:33:34,726 - INFO -   📊 Decision: BUY | Confidence: 58.7% | R:R 2.02
+2025-10-16 11:33:34,727 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (4.3) chưa đủ mạnh
+2025-10-16 11:33:34,919 - INFO -   ✅ Lấy dữ liệu nến AERO từ _get_binance_klines: 200 nến
+2025-10-16 11:33:34,949 - INFO -   ✅ Direction: LONG | Score: +5.60 (L:+5.6/S:+3.5)
+2025-10-16 11:33:34,949 - INFO -   📊 Decision: BUY | Confidence: 78.0% | R:R 1.51
+2025-10-16 11:33:34,950 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.6 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:35,642 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho RAIL
+2025-10-16 11:33:35,668 - INFO -   ✅ Direction: LONG | Score: +5.60 (L:+5.6/S:+1.8)
+2025-10-16 11:33:35,669 - INFO -   📊 Decision: BUY | Confidence: 78.0% | R:R 2.01
+2025-10-16 11:33:35,669 - INFO -   👉 Should Enter: True | Reason: ⚠️ Điểm LONG cao (5.6) nhưng risk cao, cần cẩn trọng - Vẫn vào lệnh với size nhỏ
+2025-10-16 11:33:35,818 - INFO -   ✅ Lấy dữ liệu nến ETH từ _get_binance_klines: 200 nến
+2025-10-16 11:33:35,847 - INFO -   ✅ Direction: LONG | Score: +7.25 (L:+7.2/S:+2.8)
+2025-10-16 11:33:35,847 - INFO -   📊 Decision: BUY | Confidence: 86.2% | R:R 0.99
+2025-10-16 11:33:35,847 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (7.2 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:36,289 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho CLO
+2025-10-16 11:33:36,311 - INFO -   ✅ Direction: LONG | Score: +5.45 (L:+5.5/S:+2.6)
+2025-10-16 11:33:36,312 - INFO -   📊 Decision: BUY | Confidence: 77.2% | R:R 2.00
+2025-10-16 11:33:36,312 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.5 >= 4.5) và risk chấp nhận được (LOW)
+2025-10-16 11:33:36,851 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho PALU
+2025-10-16 11:33:36,873 - INFO -   ✅ Direction: LONG | Score: +3.85 (L:+3.9/S:+1.8)
+2025-10-16 11:33:36,873 - INFO -   📊 Decision: NEUTRAL | Confidence: 49.2% | R:R 2.00
+2025-10-16 11:33:36,874 - INFO -   👉 Should Enter: False | Reason: ❌ Điểm LONG (3.9) chưa đủ mạnh
+2025-10-16 11:33:37,025 - INFO -   ✅ Lấy dữ liệu nến SOL từ _get_binance_klines: 200 nến
+2025-10-16 11:33:37,054 - INFO -   ✅ Direction: SHORT | Score: +4.55 (L:+2.9/S:+4.5)
+2025-10-16 11:33:37,054 - INFO -   📊 Decision: SELL | Confidence: 52.8% | R:R 1.12
+2025-10-16 11:33:37,054 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm SHORT cao (4.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:37,214 - INFO -   ✅ Lấy dữ liệu nến EIGEN từ _get_binance_klines: 200 nến
+2025-10-16 11:33:37,244 - INFO -   ✅ Direction: LONG | Score: +4.70 (L:+4.7/S:+3.2)
+2025-10-16 11:33:37,245 - INFO -   📊 Decision: BUY | Confidence: 73.5% | R:R 1.73
+2025-10-16 11:33:37,245 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (4.7 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:37,391 - INFO -   ✅ Lấy dữ liệu nến LINK từ _get_binance_klines: 200 nến
+2025-10-16 11:33:37,418 - INFO -   ✅ Direction: LONG | Score: +6.80 (L:+6.8/S:+2.6)
+2025-10-16 11:33:37,419 - INFO -   📊 Decision: BUY | Confidence: 84.0% | R:R 1.22
+2025-10-16 11:33:37,419 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.8 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:37,579 - INFO -   ✅ Lấy dữ liệu nến ZK từ _get_binance_klines: 200 nến
+2025-10-16 11:33:37,614 - INFO -   ✅ Direction: LONG | Score: +6.90 (L:+6.9/S:+2.6)
+2025-10-16 11:33:37,614 - INFO -   📊 Decision: BUY | Confidence: 84.5% | R:R 2.05
+2025-10-16 11:33:37,614 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (6.9 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:37,767 - INFO -   ✅ Lấy dữ liệu nến BNB từ _get_binance_klines: 200 nến
+2025-10-16 11:33:37,793 - INFO -   ✅ Direction: LONG | Score: +5.65 (L:+5.7/S:+1.6)
+2025-10-16 11:33:37,794 - INFO -   📊 Decision: BUY | Confidence: 59.5% | R:R 1.20
+2025-10-16 11:33:37,794 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.7 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:38,310 - WARNING -   ⚠️ Sử dụng dữ liệu nến tổng hợp cho BROCCOLI
+2025-10-16 11:33:38,333 - INFO -   ✅ Direction: LONG | Score: +5.45 (L:+5.5/S:+2.6)
+2025-10-16 11:33:38,333 - INFO -   📊 Decision: BUY | Confidence: 72.2% | R:R 2.00
+2025-10-16 11:33:38,333 - INFO -   👉 Should Enter: True | Reason: ✅ Điểm LONG cao (5.5 >= 4.5) và risk chấp nhận được (MEDIUM)
+2025-10-16 11:33:38,469 - INFO -   ✅ Lấy dữ liệu nến AAVE từ _get_binance_klines: 200 nến
+2025-10-16 11:33:38,496 - INFO -   ✅ Direction: LONG | Score: +4.55 (L:+4.5/S:+3.1)
+2025-10-16 11:33:38,496 - INFO -   📊 Decision: BUY | Confidence: 72.8% | R:R 1.27
+2025-10-16 11:33:38,497 - INFO -   👉 Should Enter: False | Reason: ⚠️ Điểm LONG cao (4.5) nhưng risk cao, cần cẩn trọng - Cần điểm cao hơn để vào lệnh
+2025-10-16 11:33:38,521 - WARNING - ⚠️ Mất kết nối Binance WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,522 - WARNING - ⚠️ Mất kết nối Binance WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,522 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,523 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BROCCOLI: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,523 - WARNING - ⚠️ Mất kết nối Bybit WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,524 - WARNING - ⚠️ Mất kết nối Binance WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,524 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,524 - WARNING - ⚠️ Mất kết nối Binance WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,525 - WARNING - ⚠️ Mất kết nối Binance WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,525 - WARNING - ⚠️ Mất kết nối Bybit WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,526 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,526 - WARNING - ⚠️ Mất kết nối Binance WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,526 - WARNING - ⚠️ Mất kết nối Bybit WebSocket SOL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,527 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,527 - WARNING - ⚠️ Mất kết nối Binance WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,527 - WARNING - ⚠️ Mất kết nối Bybit WebSocket PALU: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,527 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,528 - WARNING - ⚠️ Mất kết nối Binance WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,528 - WARNING - ⚠️ Mất kết nối Binance WebSocket BTCB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,528 - WARNING - ⚠️ Mất kết nối Bybit WebSocket TIBBIR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,529 - WARNING - ⚠️ Mất kết nối Bybit WebSocket CLO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,529 - WARNING - ⚠️ Mất kết nối Binance WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,529 - WARNING - ⚠️ Mất kết nối Bybit WebSocket EIGEN: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,529 - WARNING - ⚠️ Mất kết nối Bybit WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,530 - WARNING - ⚠️ Mất kết nối Binance WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,530 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,530 - WARNING - ⚠️ Mất kết nối Binance WebSocket WEED: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,530 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,530 - WARNING - ⚠️ Mất kết nối Bybit WebSocket OHM: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,531 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNKR: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,531 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ZORATV: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,531 - WARNING - ⚠️ Mất kết nối Binance WebSocket BNB: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,531 - WARNING - ⚠️ Mất kết nối Bybit WebSocket MPLX: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,532 - WARNING - ⚠️ Mất kết nối Binance WebSocket ZIPSTREAMPHP: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,532 - WARNING - ⚠️ Mất kết nối Binance WebSocket AAVE: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,532 - WARNING - ⚠️ Mất kết nối Bybit WebSocket AERO: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,532 - WARNING - ⚠️ Mất kết nối Bybit WebSocket ETH: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,532 - WARNING - ⚠️ Mất kết nối Binance WebSocket LINK: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,533 - WARNING - ⚠️ Mất kết nối Bybit WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,533 - WARNING - ⚠️ Mất kết nối Binance WebSocket RAIL: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,534 - WARNING - ⚠️ Mất kết nối Bybit Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
+2025-10-16 11:33:38,534 - WARNING - ⚠️ Mất kết nối Binance Liquidation WebSocket: Session is closed.
+Đang thử lại sau 5 giây... (attempt 1)
